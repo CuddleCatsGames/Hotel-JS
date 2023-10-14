@@ -1,38 +1,41 @@
 		const hotel = {
-			name: 'Hotel Name',
-			type: 'Resort',
-			homepage: 'https://www.example.com/',
-			description: '',
-			petsAllowedTrueFalse: true,
-			totalRoomCount: 100,
+			name: 'Espacio Waikiki',
+			type: 'Hotel',
+			homepage: 'https://www.espaciowaikiki.com/',
+			description: 'Welcome to a first-of-its-kind Hawaii hotel; the new pinnacle of luxury, privacy, design and world-class hospitality.',
+			petsAllowedTrueFalse: false,
+			totalRoomCount: 9,
 			priceRange: '$$$',
 			amenitiesArr: [
 				{
-					name: 'Free WiFi',
-					url: 'https://www.example.com/amenities/free-wifi',
-					imageUrl: 'https://www.example.com/photos/1x1/photo.jpg'
+					name: 'Experience',
+					url: 'https://www.espaciowaikiki.com/experience/',
+					imageUrl: 'https://s40336.pcdn.co/wp-content/uploads/2021/06/ESPACIO-master-bedroom-650x415-1.jpg'
 				},
-				{
-					name: 'Free WiFi',
-					url: 'https://www.example.com/amenities/free-wifi',
-					imageUrl: 'https://www.example.com/photos/1x1/photo.jpg'
-				}
 			],
 			roomGroupsArr: [
 				{
-					roomType: 'Suite',
-					numberOfRooms: 104,
+					roomType: 'Penthouse Diamond Suite',
+					numberOfRooms: 1,
 				},
 				{
-					roomType: '1 bed',
-					numberOfRooms: 42,
+					roomType: 'Oceanfront Suites',
+					numberOfRooms: 2,
+				}
+				{
+					roomType: 'Ocean View Suites',
+					numberOfRooms: '3',
+				},
+				{
+					roomType: 'Beach View Suites',
+					numberOfRooms: '3',
 				}
 			],
-			currenciesAccepted: 'currenciesAcceptedArr',
-			openingHours: 'openingHoursArr',
-			paymentAccepted: 'paymentAcceptedArr',
-			availableLanguage: 'availableLanguageArr',
-			checkInTime: '15:00',
+			currenciesAccepted: 'USD',
+			openingHours: '8:00',
+			paymentAccepted: 'Cash and Cards',
+			availableLanguage: 'English',
+			checkInTime: '16:00',
 			checkOutTime: '11:00',
 			imageArr: [
 				{
@@ -44,43 +47,43 @@
 					url: '',
 				}
 			],
-			logoUrl: 'https://www.example.com/photos/1x1/photo.jpg',
-			slogan: 'The best hotel in the world',
-			copyrightUrl: 'https://www.example.com/copyright',
+			logoUrl: 'https://www.espaciowaikiki.com/app/images/logo-primary.svg',
+			slogan: 'The Jewel of Waikiki',
+			copyrightUrl: 'null',
 			facebookUrl: 'https://www.facebook.com/espaciowaikiki',
 			twitterUrl: 'https://twitter.com/espaciowaikiki',
 			instagramUrl: 'https://www.instagram.com/espaciowaikiki/',
 			linkedinUrl: 'https://www.linkedin.com/company/espacio-waikiki/',
 			contact: {
-				phone: '',
-				email: '',
+				phone: '1.844.672.0799',
+				email: 'espaciores@espaciowaikiki.com',
 			},
 			location: {
-				street: '123 Ocean Blvd',
-				city: 'Miami',
-				state: 'FL',
-				zip: '33139',
+				street: '2452 Kalakaua Avenue',
+				city: 'Honolulu',
+				state: 'HI',
+				zip: '96815',
 				country: 'USA',
 			},
-			lowestPrice: 100,
-			highestPrice: 1500,
+			lowestPrice: 4200,
+			highestPrice: 12000,
 			rating: {
 				value: '4.5',
-				count: '16',
+				count: '44',
 			},
 			page: {
-				name: 'Rooms',
-				url: 'https://www.example.com/hotel/rooms',
+				name: 'Home',
+				url: 'https://www.espaciowaikiki.com/',
 				video: {
-					name: 'Introducing the self-driving bicycle in the Netherlands',
-					description: 'This spring, Google is introducing the self-driving bicycle in Amsterdam, the world\'s premier cycling city. The Dutch cycle more than any other nation in the world, almost 900 kilometres per year per person, amounting to over 15 billion kilometres annually. The self-driving bicycle enables safe navigation through the city for Amsterdam residents, and furthers Google\'s ambition to improve urban mobility with technology. Google Netherlands takes enormous pride in the fact that a Dutch team worked on this innovation that will have great impact in their home country.',
-					thumbnailUrl: 'https://example.com/photos/1x1/photo.jpg',
+					name: 'Luxury Hotel in Honolulu',
+					description: 'ESPACIO The Jewel of Waikiki, named Condé Nast Travelers’ #1 hotel in Hawaii, redefines the luxury hotel experience. It is the only hotel in Hawaii to be awarded Forbes Travel Guide’s Five-Star Honor for both the hotel and Mugen restaurant.',
+					thumbnailUrl: 'null',
 					contentUrl: '',
 					embedUrl: '',
-					uploadDateISO: '2016-03-31T08:00:00+08:00',
+					uploadDateISO: 'null',
 					duration: {
-						min: '1',
-						sec: '54',
+						min: '',
+						sec: '',
 					}
 				},
 				inquireableItem: {
