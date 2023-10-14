@@ -8,24 +8,56 @@
 			priceRange: '$$$',
 			amenitiesArr: [
 				{
-					name: 'Free WiFi',
-					url: 'https://www.example.com/amenities/free-wifi',
-					imageUrl: 'https://www.example.com/photos/1x1/photo.jpg'
+					name: 'Explore',
+					url: 'https://www.astonkaanapalishoresresort.com/explore/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/heros/1500x600-Explore.jpg'
 				},
 				{
-					name: 'Free WiFi',
-					url: 'https://www.example.com/amenities/free-wifi',
-					imageUrl: 'https://www.example.com/photos/1x1/photo.jpg'
+					name: 'On Site Activities',
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/heros/1500x600-resort-overview.jpg'
 				}
 			],
 			roomGroupsArr: [
 				{
-					roomType: 'Suite',
-					numberOfRooms: 104,
+					roomType: 'Hotel Room',
+					numberOfRooms: 'null',
 				},
 				{
-					roomType: '1 bed',
-					numberOfRooms: 42,
+					roomType: 'Junior Suite with Kitchen',
+					numberOfRooms: 'null',
+				}
+				{
+					roomType: '1-Bedroom 1-Bath Standard Suite',
+					numberOfRooms: 'null',
+				},
+				{
+					roomType: '1-Bedroom 1-Bath Garden View Suite',
+					numberOfRooms: 'null',
+				}
+				{
+					roomType: '1-Bedroom 1-Bath Ocean View Suite',
+					numberOfRooms: 'null',
+				},
+				{
+					roomType: '2-Bedroom 2-Bath Garden View Suite',
+					numberOfRooms: 'null',
+				}
+				{
+					roomType: '2-Bedroom 2-Bath Garden View Suite',
+					numberOfRooms: 'null',
+				},
+				{
+					roomType: '2-Bedroom 2-Bath Oceanfront Suite',
+					numberOfRooms: 'null',
+				}
+				{
+					roomType: '2-Bedroom 2-Bath Oceanfront Aloha Suite',
+					numberOfRooms: 'null',
+				},
+				{
+					roomType: '2-Bedroom 2-Bath Penthouse Suite',
+					numberOfRooms: 'null',
 				}
 			],
 			currenciesAccepted: 'USD',
@@ -69,18 +101,18 @@
 				count: '2,333',
 			},
 			page: {
-				name: 'Rooms',
-				url: 'https://www.example.com/hotel/rooms',
+				name: 'Homepage',
+				url: 'https://www.astonkaanapalishoresresort.com/',
 				video: {
 					name: 'Introducing the self-driving bicycle in the Netherlands',
-					description: 'This spring, Google is introducing the self-driving bicycle in Amsterdam, the world\'s premier cycling city. The Dutch cycle more than any other nation in the world, almost 900 kilometres per year per person, amounting to over 15 billion kilometres annually. The self-driving bicycle enables safe navigation through the city for Amsterdam residents, and furthers Google\'s ambition to improve urban mobility with technology. Google Netherlands takes enormous pride in the fact that a Dutch team worked on this innovation that will have great impact in their home country.',
-					thumbnailUrl: 'https://example.com/photos/1x1/photo.jpg',
+					description: 'Welcome to the gorgeous Kaanapali coast on West Maui, where the Aston Kaanapali Shores beachfront resort rests on 10 acres of white sand, tropical gardens, and flowing waterfalls.',
+					thumbnailUrl: 'https://www.astonkaanapalishoresresort.com/img/heros/home-slide-garden-pool-default.jpg',
 					contentUrl: '',
 					embedUrl: '',
-					uploadDateISO: '2016-03-31T08:00:00+08:00',
+					uploadDateISO: 'null',
 					duration: {
-						min: '1',
-						sec: '54',
+						min: 'null',
+						sec: 'null',
 					}
 				},
 				inquireableItem: {
