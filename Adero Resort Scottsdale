@@ -1,38 +1,61 @@
 		const hotel = {
 			name: 'Adero Resort Scottsdale',
 			type: 'Resort',
-			homepage: 'https://www.example.com/',
-			description: '',
-			petsAllowedTrueFalse: true,
-			totalRoomCount: 100,
+			homepage: 'https://www.aderoscottsdale.com/',
+			description: 'ADERO Scottsdale Resort, perched high above the Sonoran Desert, is the only Autograph Collection® destination in a certified Dark Sky Community. The AAA Four Diamond Resort was also named to the prestigious T + L "It List" and Condé Nast Traveler's "Hot List" for 2021.',
+			petsAllowedTrueFalse: false,
+			totalRoomCount: 177,
 			priceRange: '$$$',
 			amenitiesArr: [
 				{
-					name: 'Free WiFi',
-					url: 'https://www.example.com/amenities/free-wifi',
-					imageUrl: 'https://www.example.com/photos/1x1/photo.jpg'
+					name: 'Amenities',
+					url: 'https://www.aderoscottsdale.com/amenities',
+					imageUrl: 'https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823'
 				},
-				{
-					name: 'Free WiFi',
-					url: 'https://www.example.com/amenities/free-wifi',
-					imageUrl: 'https://www.example.com/photos/1x1/photo.jpg'
-				}
 			],
 			roomGroupsArr: [
 				{
-					roomType: 'Suite',
-					numberOfRooms: 104,
+					roomType: 'Standard Double Queen Room With Peloton Bike',
+					numberOfRooms: 'null',
 				},
 				{
-					roomType: '1 bed',
-					numberOfRooms: 42,
+					roomType: 'Standard King Room',
+					numberOfRooms: 'null',
 				}
+				{
+					roomType: 'Mountain View Rooms',
+					numberOfRooms: 'null',
+				},
+				{
+					roomType: 'Sky View Rooms',
+					numberOfRooms: 'null',
+				}
+				{
+					roomType: 'Cliffside Rooms',
+					numberOfRooms: 'null',
+				},
+				{
+					roomType: 'Desert Spa Suites',
+					numberOfRooms: 'null',
+				}
+				{
+					roomType: 'Dark Sky Corner Suites',
+					numberOfRooms: 'null',
+				},
+				{
+					roomType: 'Terrace Suites',
+					numberOfRooms: 'null',
+				}
+				{
+					roomType: 'Celestial Suites',
+					numberOfRooms: 'null',
+				},
 			],
-			currenciesAccepted: 'currenciesAcceptedArr',
-			openingHours: 'openingHoursArr',
-			paymentAccepted: 'paymentAcceptedArr',
-			availableLanguage: 'availableLanguageArr',
-			checkInTime: '15:00',
+			currenciesAccepted: 'USD',
+			openingHours: '8:00',
+			paymentAccepted: 'Cash and Cards',
+			availableLanguage: 'English',
+			checkInTime: '16:00',
 			checkOutTime: '11:00',
 			imageArr: [
 				{
@@ -44,43 +67,43 @@
 					url: '',
 				}
 			],
-			logoUrl: 'https://www.example.com/photos/1x1/photo.jpg',
-			slogan: 'The best hotel in the world',
-			copyrightUrl: 'https://www.example.com/copyright',
-			facebookUrl: 'https://www.facebook.com/espaciowaikiki',
-			twitterUrl: 'https://twitter.com/espaciowaikiki',
-			instagramUrl: 'https://www.instagram.com/espaciowaikiki/',
-			linkedinUrl: 'https://www.linkedin.com/company/espacio-waikiki/',
+			logoUrl: 'https://www.aderoscottsdale.com/resourcefiles/otherimages/adero-an-autograph-collection-hotel.svg',
+			slogan: 'ABOVE THE DESERT, BENEATH THE STARS',
+			copyrightUrl: 'null',
+			facebookUrl: 'https://www.facebook.com/aderoscottsdale/',
+			twitterUrl: 'https://twitter.com/ADEROscottsdale',
+			instagramUrl: 'https://www.instagram.com/aderoscottsdale/?hl=en',
+			linkedinUrl: 'https://www.linkedin.com/company/aderoscottsdale/',
 			contact: {
-				phone: '',
-				email: '',
+				phone: '480-333-1900',
+				email: 'info@aderoscottsdale.com',
 			},
 			location: {
-				street: '123 Ocean Blvd',
-				city: 'Miami',
-				state: 'FL',
-				zip: '33139',
+				street: '13225 North Eagle Ridge Drive',
+				city: 'Scottsdale',
+				state: 'AZ',
+				zip: '85268',
 				country: 'USA',
 			},
-			lowestPrice: 100,
-			highestPrice: 1500,
+			lowestPrice: 240,
+			highestPrice: 1000,
 			rating: {
-				value: '4.5',
-				count: '16',
+				value: '4.2',
+				count: '330',
 			},
 			page: {
-				name: 'Rooms',
-				url: 'https://www.example.com/hotel/rooms',
+				name: 'Home',
+				url: 'https://www.aderoscottsdale.com/',
 				video: {
-					name: 'Introducing the self-driving bicycle in the Netherlands',
-					description: 'This spring, Google is introducing the self-driving bicycle in Amsterdam, the world\'s premier cycling city. The Dutch cycle more than any other nation in the world, almost 900 kilometres per year per person, amounting to over 15 billion kilometres annually. The self-driving bicycle enables safe navigation through the city for Amsterdam residents, and furthers Google\'s ambition to improve urban mobility with technology. Google Netherlands takes enormous pride in the fact that a Dutch team worked on this innovation that will have great impact in their home country.',
-					thumbnailUrl: 'https://example.com/photos/1x1/photo.jpg',
+					name: 'Discover A Whole New View',
+					description: 'null',
+					thumbnailUrl: 'null',
 					contentUrl: '',
 					embedUrl: '',
-					uploadDateISO: '2016-03-31T08:00:00+08:00',
+					uploadDateISO: 'null',
 					duration: {
-						min: '1',
-						sec: '54',
+						min: '',
+						sec: '',
 					}
 				},
 				inquireableItem: {
