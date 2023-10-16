@@ -8,15 +8,10 @@
 			priceRange: '$$$',
 			amenitiesArr: [
 				{
-					name: 'Free WiFi',
-					url: 'https://www.example.com/amenities/free-wifi',
-					imageUrl: 'https://www.example.com/photos/1x1/photo.jpg'
+					name: 'Explore',
+					url: 'https://www.ilikaihotel.com/explore/',
+					imageUrl: 'https://www.ilikaihotel.com/img/heros/1500x600-Explore.jpg'
 				},
-				{
-					name: 'Free WiFi',
-					url: 'https://www.example.com/amenities/free-wifi',
-					imageUrl: 'https://www.example.com/photos/1x1/photo.jpg'
-				}
 			],
 			roomGroupsArr: [
 				{
