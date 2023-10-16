@@ -8,14 +8,104 @@
 			priceRange: '$$$',
 			amenitiesArr: [
 				{
-					name: 'Explore',
+					name: 'Old Lahaina Luau',
 					url: 'https://www.astonkaanapalishoresresort.com/explore/',
-					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/heros/1500x600-Explore.jpg'
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Old-Lahaina-Luau.jpg'
 				},
 				{
-					name: 'On Site Activities',
+					name: 'Bailey House Museum',
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Bailey-House.jpg'
+				}
+				{
+					name: 'Feast at Lele',
+					url: 'https://www.astonkaanapalishoresresort.com/explore/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Feast-at-Lele.jpg'
+				},
+				{
+					name: 'Lahaina Historical Walking Tour',
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Lahaina-Historical-Walking-Tour.jpg'
+				}
+				{
+					name: 'Whale Watching Tours',
+					url: 'https://www.astonkaanapalishoresresort.com/explore/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Whale-Watching.jpg'
+				},
+				{
+					name: 'Eco-Adventure Zipline',
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Zip-Line.jpg'
+				}
+				{
+					name: 'Kahoma Ranch',
+					url: 'https://www.astonkaanapalishoresresort.com/explore/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Kahoma-Ranch.jpg'
+				},
+				{
+					name: 'Snorkeling',
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Snorkeling.jpg'
+				}
+				{
+					name: 'Parasailing',
+					url: 'https://www.astonkaanapalishoresresort.com/explore/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Parasailing.jpg'
+				},
+				{
+					name: 'Kaanapali Golf',
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Golf-Royal-Kaanapali.jpg'
+				}
+				{
+					name: 'Haleakala National Park',
+					url: 'https://www.astonkaanapalishoresresort.com/explore/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Haleakala-Crater.jpg'
+				},
+				{
+					name: 'Pools of Oheo',
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Pools-at-Oheo.jpg'
+				}
+				{
+					name: 'Pali Trail',
+					url: 'https://www.astonkaanapalishoresresort.com/explore/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Pali-Trail.jpg'
+				},
+				{
+					name: 'Waihee Ridge',
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Waihee-Ridge.jpg'
+				}
+				{
+					name: 'Iao Valley',
+					url: 'https://www.astonkaanapalishoresresort.com/explore/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Iao-Needle.jpg'
+				},
+				{
+					name: 'Swell Life Shop at Kaanapali Shores',
 					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/',
 					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/heros/1500x600-resort-overview.jpg'
+				}
+				{
+					name: 'Karen Lei’s Gallery at Kaanapali Shores',
+					url: 'https://www.astonkaanapalishoresresort.com/explore/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/aston-kaanapali-shores-swell-life-shop-435x275.jpg'
+				},
+				{
+					name: 'Whalers Village',
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Whalers-Village.jpg'
+				}
+				{
+					name: 'Whalers Village Museum & Gift Shop',
+					url: 'https://www.astonkaanapalishoresresort.com/explore/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Whalers-Village-Museum.jpg'
+				},
+				{
+					name: 'Craft Fair at the Lahaina Civic Center',
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/',
+					imageUrl: 'https://www.astonkaanapalishoresresort.com/img/435x275-Explore-Craft-Fair-at-Lahaina-Civic-Center.jpg'
 				}
 			],
 			roomGroupsArr: [
