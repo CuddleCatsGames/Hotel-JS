@@ -329,24 +329,24 @@ const astonKaanapali = {
 	checkOutTime: '11:00',
 	imageArr: [
 		{
-			caption: '',
-			url: '',
+			caption: 'An Unforgettable Experience',
+			url: 'https://www.astonkaanapalishoresresort.com/img/aks-homepage-experience-1.jpg',
 		},
 		{
-			caption: '',
-			url: '',
+			caption: 'Holoholo Kamaaina Deal',
+			url: 'https://www.astonkaanapalishoresresort.com/img/636x343-kama-homepage.jpg',
 		}
 		{
-			caption: '',
-			url: '',
+			caption: 'Great Rates for Guests 50+',
+			url: 'https://www.astonkaanapalishoresresort.com/img/636x343-Homepage-A-Deal-For-the-Ages.jpg',
 		},
 		{
-			caption: '',
-			url: '',
+			caption: 'Hawaii Hospitality and Culture',
+			url: 'https://www.astonkaanapalishoresresort.com/img/featured-photo-home.jpg',
 		}
 		{
-			caption: '',
-			url: '',
+			caption: 'Complimentary Daily Breakfast',
+			url: 'https://www.astonkaanapalishoresresort.com/img/aks-breakfast-435x275.jpg',
 		},
 	],
 	logoUrl: 'https://www.astonkaanapalishoresresort.com/img/AKS-logo.png',
@@ -377,15 +377,15 @@ const astonKaanapali = {
 		name: 'Homepage',
 		url: 'https://www.astonkaanapalishoresresort.com/',
 		video: {
-			name: 'Introducing the self-driving bicycle in the Netherlands',
-			description: 'Welcome to the gorgeous Kaanapali coast on West Maui, where the Aston Kaanapali Shores beachfront resort rests on 10 acres of white sand, tropical gardens, and flowing waterfalls.',
-			thumbnailUrl: 'https://www.astonkaanapalishoresresort.com/img/heros/home-slide-garden-pool-default.jpg',
-			contentUrl: '',
-			embedUrl: '',
+			name: 'Experience Aston Kaanapali Shores',
+			description: 'Welcome to the gorgeous Kaanapali coast on West Maui, where the Aston Kaanapali Shores beachfront resort rests on 10 acres of white sand, tropical gardens, and flowing waterfalls. Our Kaanapali resort boasts the quintessential Hawaii experience.',
+			thumbnailUrl: 'null',
+			contentUrl: 'https://youtu.be/kOu0-VGouTE',
+			embedUrl: '<iframe width="960" height="540" src="https://www.youtube.com/embed/kOu0-VGouTE" title="Aston Kaanapali Shores - An Unforgettable Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
 			uploadDateISO: null,
 			duration: {
-				min: null,
-				sec: null,
+				min: '1',
+				sec: '14',
 			}
 		},
 		inquireableItem: {
@@ -635,6 +635,18 @@ const espacio = {
 			caption: '',
 			url: '',
 		}
+		{
+			caption: '',
+			url: '',
+		},
+		{
+			caption: '',
+			url: '',
+		}
+		{
+			caption: '',
+			url: '',
+		},
 	],
 	logoUrl: 'https://www.espaciowaikiki.com/app/images/logo-primary.svg',
 	slogan: 'The Jewel of Waikiki',
