@@ -127,29 +127,29 @@ const adero = {
 	roomsArr: [
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			name: 'Standard, Guest room, 1 King', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.aderoscottsdale.com/click-reservation?hotelcode=phxaf', // url
 			tourUrl: '', // url
-			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			petsAllowedTrueOrFalse: false, // boolean
+			minPrice: '338', // number
+			maxPrice: '344', // number
+			description: 'With 400 square feet, lofty 11-foot-high ceilings, concrete exposed floors with custom rugs and 150-square-foot private balconies or patios, our spacious standard rooms ensure guests end each sun-drenched day on a joyful, restful note. Located on the ground floor, where the Sonoran Desert’s rare gifts are always close by, these modern havens offer room to unwind.', // string
+			defaultPrice: '344', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: false, // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Standard, Guest room, 1 King', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-king-guestroom-9427-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				},
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Standard, Guest room, 1 King', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-king-resort-7739-ver-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				}
 			],
 			roomAmenitiesArr: [
@@ -165,29 +165,29 @@ const adero = {
 				},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			name: 'Standard w/ Peloton Bike, Guest room, 2 Queen(s)', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.marriott.com/reservation/rateListMenu.mi', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			minPrice: '367', // number
+			maxPrice: '374', // number
+			description: 'Discover the perfect fusion of comfort and fitness in our spacious 400 square foot double queen conditioning room, complete with a Peloton Bike. This exclusive room includes complimentary bottled waters and workout towels and for your post-workout recovery, unwind with a bottle of soothing essential oil. Experience ultimate well-being and privacy in one unforgettable stay.', // string
+			defaultPrice: '367', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'Queens', // string
+			smokingBoolean: false, // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Standard w/ Peloton Bike, Guest room, 2 Queen(s)', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-queen-queen-7913-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				},
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Standard w/ Peloton Bike, Guest room, 2 Queen(s)', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-king-7911-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				}
 			],
 			roomAmenitiesArr: [
