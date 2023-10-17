@@ -355,21 +355,59 @@ const adero = {
 				},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			name: 'Cliffside, Larger Guest room, 1 King, Fireplace', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.aderoscottsdale.com/click-reservation?hotelcode=phxaf', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			minPrice: '436', // number
+			maxPrice: '444', // number
+			description: 'Named for their coveted perch, framing views of the famed Four Peaks, our Cliffside guest rooms are a couple’s haven—located in our tranquil adult-only wing, the only one of its kind in the valley. Guests may retreat indoors to enjoy the comfort of a crackling fireplace or blissful soaking bathtub. Or settle into a hideaway from it all to unwind on the private balcony, beneath an endless expanse of starry skies.', // string
+			defaultPrice: '444', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: false, // boolean
+			images: [
+				{
+					caption: 'Cliffside, Larger Guest room, 1 King, Fireplace', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-king-guest-9025-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
+				},
+				{
+					caption: 'Cliffside, Larger Guest room, 1 King, Fireplace', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-king-balcony-9028-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Cliffside, Larger Guest room, 2 Queen(s), Fireplace', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.aderoscottsdale.com/click-reservation?hotelcode=phxaf', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '455', // number
+			maxPrice: '464', // number
+			description: 'Named for their coveted perch, framing views of the famed Four Peaks, our Cliffside guest rooms are a couple’s haven—located in our tranquil adult-only wing, the only one of its kind in the valley. Guests may retreat indoors to enjoy the comfort of a crackling fireplace or blissful soaking bathtub. Or settle into a hideaway from it all to unwind on the private balcony, beneath an endless expanse of starry skies.', // string
+			defaultPrice: '464', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: 2'', // number
+			bedType: 'Queen', // string
+			smokingBoolean: false, // boolean
 			images: [
 				{
 					caption: '', // string
@@ -392,30 +430,30 @@ const adero = {
 					imageUrl: '' // url
 				},
 		{
-			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Desert Spa Suite, 1 Bedroom Junior Suite, 1 King, Mountain view', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.aderoscottsdale.com/click-reservation?hotelcode=phxaf', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			minPrice: '681', // number
+			maxPrice: '694', // number
+			description: 'Our Desert Spa Suite welcomes guests into a space of comfort and peaceful privacy. With 697 square feet, guests will enjoy a spacious living area featuring a 160-square-foot private balcony, a king bedroom retreat and a luxuriously appointed bathroom with grand soaking tub, separate shower and dual-vanity sink. The perfect place to relax and escape the hustle and bustle of everyday life.', // string
+			defaultPrice: '694', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: false, // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Desert Spa Suite, 1 Bedroom Junior Suite, 1 King, Mountain view', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-living-7554-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				},
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Desert Spa Suite, 1 Bedroom Junior Suite, 1 King, Mountain view', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-desert-spa-7882-ver-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				}
 			],
 			roomAmenitiesArr: [
@@ -430,30 +468,106 @@ const adero = {
 					imageUrl: '' // url
 				},
 		{
-			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Dark Sky Corner Suite, 1 Bedroom Suite, 1 King, Mountain view, Corner room', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.aderoscottsdale.com/click-reservation?hotelcode=phxaf', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			minPrice: '710', // number
+			maxPrice: '724', // number
+			description: 'Discover a new perspective on desert luxury in our majestic Signature Dark Sky Corner Suites. Perched on the southernmost end of our resort—with dramatic views of Red Mountain—each 748-square-foot haven offers a rejuvenating bedroom retreat that fosters the optimal environment for rest and rejuvenation, and luxurious bath chambers with dual-vanity sink, day-lit shower, grand soaking tub and windows to bring in light from the Sonoran sky. Taking full advantage of the only certified Dark Sky Zone resort in Scottsdale, the separate living area extends into a private 250-square-foot wraparound balcony via two triple sliders—ideal for stargazing on warm desert nights. For the ultimate family retreat, all Signature Dark Sky Corner Suites can be reserved to connect to a Double Queen Room for an additional charge.', // string
+			defaultPrice: '724', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: '1 King', // string
+			smokingBoolean: false, // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Dark Sky Corner Suite, 1 Bedroom Suite, 1 King, Mountain view, Corner room', // string
+					url: 'https://cache.marriott.com/is/image/marriotts7prod/ak-phxaf-phxaf-cornersuite-liv-rm-32135:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				},
 				{
-					caption: '', // string
+					caption: 'Dark Sky Corner Suite, 1 Bedroom Suite, 1 King, Mountain view, Corner room', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-corner-suite-9428-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
 					url: '', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Terrace Suite, 1 Bedroom Suite, 1 King, Mountain view, Balcony', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.aderoscottsdale.com/click-reservation?hotelcode=phxaf', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '749', // number
+			maxPrice: '764', // number
+			description: 'Our Desert Spa Suite welcomes guests into a space of comfort and peaceful privacy. With 697 square feet, guests will enjoy a spacious living area featuring a 160-square-foot private balcony, a king bedroom retreat and a luxuriously appointed bathroom with grand soaking tub, separate shower and dual-vanity sink. The perfect place to relax and escape the hustle and bustle of everyday life.', // string
+			defaultPrice: '764', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: false, // boolean
+			images: [
+				{
+					caption: 'Terrace Suite, 1 Bedroom Suite, 1 King, Mountain view, Balcony', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-celestial-7918-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
+				},
+				{
+					caption: 'Terrace Suite, 1 Bedroom Suite, 1 King, Mountain view, Balcony', // string
+					url: 'https://cache.marriott.com/is/image/marriotts7prod/ak-phxaf-terrace-suite-view-40012:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Celestial Suite, 1 Bedroom Suite, 1 King, Mountain view', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.aderoscottsdale.com/click-reservation?hotelcode=phxaf', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '779', // number
+			maxPrice: '794', // number
+			description: 'Revel in life above it all in our most coveted accommodations. Our Celestial Suites boast captivating views in every direction—from Four Peaks in the east to Sunrise Peak and the sparkling lights of Scottsdale in the west. Artfully decorated with handpicked furnishings that reflect the rich cultural heritage of the Sonoran Desert, our spacious 748 square-foot Celestial Suites offer a soothing bedroom retreat with a pillow-top king bed, luxurious bath chambers with vanity sink, shower, grand soaking tub, and windows to bring in light from the Sonoran sky. Your separate living area opens wide to a private wraparound balcony with corner panel-sliding doors, creating an unparalleled indoor/outdoor living experience with breathtaking panoramas.', // string
+			defaultPrice: '794', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: false, // boolean
+			images: [
+				{
+					caption: 'Celestial Suite, 1 Bedroom Suite, 1 King, Mountain view', // string
+					url: 'https://cache.marriott.com/is/image/marriotts7prod/ak-phxaf-celestial-suite-19249-66121:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
+				},
+				{
+					caption: 'Celestial Suite, 1 Bedroom Suite, 1 King, Mountain view', // string
+					url: 'https://cache.marriott.com/is/image/marriotts7prod/ak-phxaf-phxaf-celestial-bedroom-41486:Wide-Hor?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				}
 			],
 			roomAmenitiesArr: [
