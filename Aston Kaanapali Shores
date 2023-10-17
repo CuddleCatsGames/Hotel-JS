@@ -226,42 +226,311 @@ const astonKaanapali = {
 	roomsArr: [
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			name: '1-Bedroom 1-Bath Standard Suite', // string
+			url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			bookUrl: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			minPrice: '250', // number
+			maxPrice: '400', // number
+			description: 'You’ll enjoy over 900 square feet in this home-away-from-home one-bedroom suite. These suites have a separate bedroom, private lanai, fully equipped kitchen, and in-suite washer/dryer.', // string
+			defaultPrice: '250', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed and Sofa Bed', // string
+			smokingBoolean: 'null', // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: '1-Bedroom 1-Bath Standard Suite', // string
+					url: 'https://www.astonkaanapalishoresresort.com/img/photo-gallery/435x275-03a-rooms-and-suites.jpg', // url
 				},
-				{
-					caption: '', // string
-					url: '', // url
-				}
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '1 King Bed & Sofa Bed', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: '907 square feet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
 				},
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Hotel Room', // string
+			url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			bookUrl: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '250', // number
+			maxPrice: '400', // number
+			description: 'Get cozy in one of our attractive hotel rooms with resort view. Resort view may include one or more views of mountains, courtyard, or neighboring resorts.', // string
+			defaultPrice: '250', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'Queen Bed', // string
+			smokingBoolean: 'null', // boolean
+			images: [
+				{
+					caption: 'Hotel Room', // string
+					url: 'https://www.astonkaanapalishoresresort.com/img/photo-gallery/435x275-01-rooms-and-suites.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '1 Queen Bed', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '225 square feet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Junior Suite with Kitchen', // string
+			url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			bookUrl: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '250', // number
+			maxPrice: '400', // number
+			description: 'You’ll enjoy over 900 square feet in this home-away-from-home one-bedroom suite. These suites have a separate bedroom, private lanai, fully equipped kitchen, and in-suite washer/dryer.', // string
+			defaultPrice: '250', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed and Sofa Bed', // string
+			smokingBoolean: 'null', // boolean
+			images: [
+				{
+					caption: '1-Bedroom 1-Bath Standard Suite', // string
+					url: 'https://www.astonkaanapalishoresresort.com/img/photo-gallery/435x275-03a-rooms-and-suites.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '1 King Bed & Sofa Bed', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '907 square feet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom 1-Bath Standard Suite', // string
+			url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			bookUrl: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '250', // number
+			maxPrice: '400', // number
+			description: 'You’ll enjoy over 900 square feet in this home-away-from-home one-bedroom suite. These suites have a separate bedroom, private lanai, fully equipped kitchen, and in-suite washer/dryer.', // string
+			defaultPrice: '250', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed and Sofa Bed', // string
+			smokingBoolean: 'null', // boolean
+			images: [
+				{
+					caption: '1-Bedroom 1-Bath Standard Suite', // string
+					url: 'https://www.astonkaanapalishoresresort.com/img/photo-gallery/435x275-03a-rooms-and-suites.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '1 King Bed & Sofa Bed', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '907 square feet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom 1-Bath Standard Suite', // string
+			url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			bookUrl: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '250', // number
+			maxPrice: '400', // number
+			description: 'You’ll enjoy over 900 square feet in this home-away-from-home one-bedroom suite. These suites have a separate bedroom, private lanai, fully equipped kitchen, and in-suite washer/dryer.', // string
+			defaultPrice: '250', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed and Sofa Bed', // string
+			smokingBoolean: 'null', // boolean
+			images: [
+				{
+					caption: '1-Bedroom 1-Bath Standard Suite', // string
+					url: 'https://www.astonkaanapalishoresresort.com/img/photo-gallery/435x275-03a-rooms-and-suites.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '1 King Bed & Sofa Bed', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '907 square feet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom 1-Bath Standard Suite', // string
+			url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			bookUrl: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '250', // number
+			maxPrice: '400', // number
+			description: 'You’ll enjoy over 900 square feet in this home-away-from-home one-bedroom suite. These suites have a separate bedroom, private lanai, fully equipped kitchen, and in-suite washer/dryer.', // string
+			defaultPrice: '250', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed and Sofa Bed', // string
+			smokingBoolean: 'null', // boolean
+			images: [
+				{
+					caption: '1-Bedroom 1-Bath Standard Suite', // string
+					url: 'https://www.astonkaanapalishoresresort.com/img/photo-gallery/435x275-03a-rooms-and-suites.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '1 King Bed & Sofa Bed', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '907 square feet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom 1-Bath Standard Suite', // string
+			url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			bookUrl: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '250', // number
+			maxPrice: '400', // number
+			description: 'You’ll enjoy over 900 square feet in this home-away-from-home one-bedroom suite. These suites have a separate bedroom, private lanai, fully equipped kitchen, and in-suite washer/dryer.', // string
+			defaultPrice: '250', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed and Sofa Bed', // string
+			smokingBoolean: 'null', // boolean
+			images: [
+				{
+					caption: '1-Bedroom 1-Bath Standard Suite', // string
+					url: 'https://www.astonkaanapalishoresresort.com/img/photo-gallery/435x275-03a-rooms-and-suites.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '1 King Bed & Sofa Bed', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '907 square feet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom 1-Bath Standard Suite', // string
+			url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			bookUrl: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '250', // number
+			maxPrice: '400', // number
+			description: 'You’ll enjoy over 900 square feet in this home-away-from-home one-bedroom suite. These suites have a separate bedroom, private lanai, fully equipped kitchen, and in-suite washer/dryer.', // string
+			defaultPrice: '250', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed and Sofa Bed', // string
+			smokingBoolean: 'null', // boolean
+			images: [
+				{
+					caption: '1-Bedroom 1-Bath Standard Suite', // string
+					url: 'https://www.astonkaanapalishoresresort.com/img/photo-gallery/435x275-03a-rooms-and-suites.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '1 King Bed & Sofa Bed', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '907 square feet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom 1-Bath Standard Suite', // string
+			url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			bookUrl: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '250', // number
+			maxPrice: '400', // number
+			description: 'You’ll enjoy over 900 square feet in this home-away-from-home one-bedroom suite. These suites have a separate bedroom, private lanai, fully equipped kitchen, and in-suite washer/dryer.', // string
+			defaultPrice: '250', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed and Sofa Bed', // string
+			smokingBoolean: 'null', // boolean
+			images: [
+				{
+					caption: '1-Bedroom 1-Bath Standard Suite', // string
+					url: 'https://www.astonkaanapalishoresresort.com/img/photo-gallery/435x275-03a-rooms-and-suites.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '1 King Bed & Sofa Bed', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '907 square feet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+
 			],
 		}
 	],
