@@ -198,7 +198,7 @@ const adero = {
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Standard w/ Peloton Bike, Guest room, 2 Queen(s)', // string
 			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
-			bookUrl: 'https://www.marriott.com/reservation/rateListMenu.mi', // url
+			bookUrl: 'https://www.aderoscottsdale.com/rooms-suites', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
 			minPrice: '367', // number
@@ -266,7 +266,7 @@ const adero = {
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Mountain View, Guest room, 1 King', // string
 			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
-			bookUrl: 'https://www.marriott.com/reservation/rateListMenu.mi', // url
+			bookUrl: 'https://www.aderoscottsdale.com/rooms-suites', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
 			minPrice: '372', // number
@@ -314,7 +314,7 @@ const adero = {
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Mountain View, Guest room, 2 Queen(s)', // string
 			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
-			bookUrl: 'https://www.marriott.com/reservation/rateListMenu.mi', // url
+			bookUrl: 'https://www.aderoscottsdale.com/rooms-suites', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
 			minPrice: '377', // number
@@ -352,7 +352,7 @@ const adero = {
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Sky View, Guest room, 1 King, Top floor', // string
 			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
-			bookUrl: 'https://www.marriott.com/reservation/rateListMenu.mi', // url
+			bookUrl: 'https://www.aderoscottsdale.com/rooms-suites', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
 			minPrice: '406', // number
@@ -400,7 +400,7 @@ const adero = {
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Sky View, Guest room, 2 Queen(s), Top floor', // string
 			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
-			bookUrl: 'https://www.marriott.com/reservation/rateListMenu.mi', // url
+			bookUrl: 'https://www.aderoscottsdale.com/rooms-suites', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
 			minPrice: '426', // number
