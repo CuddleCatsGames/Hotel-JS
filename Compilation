@@ -154,15 +154,46 @@ const adero = {
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '400sqft/36sqm', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Air-conditioned', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
+				{
+					name: 'This room is non-smoking', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Connecting rooms are available (for some rooms)', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Outdoor spaces: balcony (1)', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Windows, soundproof', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'USB outlets', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Peloton bike', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Standard w/ Peloton Bike, Guest room, 2 Queen(s)', // string
@@ -192,13 +223,43 @@ const adero = {
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '400sqft/36sqm', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Air-conditioned', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'This room is non-smoking', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Connecting rooms are available (for some rooms)', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Outdoor spaces: balcony (1)', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Windows, soundproof', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'USB outlets', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Peloton bike', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 		{
@@ -230,13 +291,23 @@ const adero = {
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '400sqft/36sqm', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Air-conditioned', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Connecting rooms are available (for some rooms)', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Outdoor spaces: balcony (1)', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 		{
@@ -306,13 +377,23 @@ const adero = {
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '400sqft/36sqm', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Air-conditioned', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Connecting rooms are available for some rooms', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Outdoor spaces', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 		{
@@ -334,23 +415,33 @@ const adero = {
 			smokingBoolean: false, // boolean
 			images: [
 				{
-					caption: 'Sky View, Guest room, 2 Queen(s), Top floor', // string
+					caption: 'Sky View, Guest room, 2 Queens, Top floor', // string
 					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-queen-guestroom-8254-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				},
 				{
-					caption: 'Sky View, Guest room, 2 Queen(s), Top floor', // string
+					caption: 'Sky View, Guest room, 2 Queens, Top floor', // string
 					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-queen-resort-7743-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				}
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '400sqft/36sqm', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Air-conditioned', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Connecting rooms are available for some rooms', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Outdoor spaces', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 		{
@@ -382,15 +473,41 @@ const adero = {
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '450sqft/41sqm', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Air-conditioned', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
+				{
+					name: 'Allergy-free', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'This room is non-smoking', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Connecting rooms are available for some rooms', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Outdoor spaces: balcony 1', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'USB outlets', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Cliffside, Larger Guest room, 2 Queen(s), Fireplace', // string
@@ -410,23 +527,53 @@ const adero = {
 			smokingBoolean: false, // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Cliffside, Larger Guest room, 2 Queen(s), Fireplace', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-queen-queen-9027-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				},
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Cliffside, Larger Guest room, 2 Queen(s), Fireplace', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-queen-balcony-9026-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				}
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '450sqft/41sqm', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Air-conditioned', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Allergy-free', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'This room is non-smoking', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Connecting rooms are available for some rooms', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Outdoor spaces: balcony 1', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Windows, soundproof', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'USB outlets', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 		{
@@ -458,13 +605,48 @@ const adero = {
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '697sqft/63sqm', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Air-conditioned', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Allergy-free', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'This room is non-smoking', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Connecting rooms are not available', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Outdoor spaces: balcony 1', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Living/sitting area', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Windows, soundproof', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'USB outlets', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 		{
@@ -496,13 +678,43 @@ const adero = {
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '748sqft/67sqm', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Air-conditioned', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Allergy-free', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Connecting rooms are available', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Living/sitting area', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Outdoor spaces: balcony 1', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Windows, soundproof', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'USB outlets', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 		{
@@ -534,13 +746,43 @@ const adero = {
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '748sqft/67sqm', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Air-conditioned', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Allergy-free', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Connecting rooms are available', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Living/sitting area', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Outdoor spaces: balcony 1', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Windows, soundproof', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'USB outlets', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 		{
@@ -572,13 +814,48 @@ const adero = {
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: '748sqft/67sqm', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Air-conditioned', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Allergy-free', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Connecting rooms are available', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Living/sitting area', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Outdoor spaces: balcony 1', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Windows, soundproof', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'USB outlets', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'This room is non-smoking', // string
+					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
 			],
