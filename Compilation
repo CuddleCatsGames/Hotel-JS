@@ -903,13 +903,25 @@ const ilikai = {
 	checkOutTime: '11:00',
 	imageArr: [
 		{
-			caption: '',
-			url: '',
+			caption: 'Illikai Hotel',
+			url: 'https://www.ilikaihotel.com/img/single-photo-home.jpg',
 		},
 		{
-			caption: '',
-			url: '',
+			caption: 'Great Savings at The Ilikai',
+			url: 'https://www.ilikaihotel.com/img/636x343-Homepage-2nd-floor-pool.jpg',
 		}
+		{
+			caption: 'Hawaiian Hospitality',
+			url: 'https://www.ilikaihotel.com/img/featured-photo-home.jpg',
+		},
+		{
+			caption: 'The Suites',
+			url: 'https://www.ilikaihotel.com/img/1000x388-rooms-and-suites-featured.jpg',
+		}
+		{
+			caption: 'Pesca Waikiki Beach',
+			url: 'https://www.ilikaihotel.com/img/435x275-Dining-Pesca.jpg',
+		},
 	],
 	logoUrl: 'https://www.ilikaihotel.com/img/logo.png',
 	slogan: 'Iconic. Irresistible. Ilikai.',
@@ -1131,13 +1143,25 @@ const mauiKaanapali = {
 	checkOutTime: '11:00',
 	imageArr: [
 		{
-			caption: '',
-			url: '',
+			caption: 'ESCAPE TO KAANAPALI',
+			url: 'https://s40340.pcdn.co/wp-content/uploads/2023/09/Aston-Maui-Kaanapali-Villas-Pool-View_5040x3360-1500x430-1.jpg',
 		},
 		{
-			caption: '',
-			url: '',
+			caption: 'Kaanapali Beach',
+			url: 'https://s40340.pcdn.co/wp-content/uploads/2015/11/Homepage-Kaanapali-Beach.jpg',
 		}
+		{
+			caption: 'Serenity in Kaanapali',
+			url: 'https://s40340.pcdn.co/wp-content/uploads/2015/11/mkv_495x400-1.jpg',
+		},
+		{
+			caption: 'Dining at the Castaway Café',
+			url: 'https://s40340.pcdn.co/wp-content/uploads/2021/05/castaway-front-entrance-845x684-1-495x400.jpg',
+		}
+		{
+			caption: 'Beach Activities Center',
+			url: 'https://s40340.pcdn.co/wp-content/uploads/2016/02/K43A4789-495x400.jpg',
+		},
 	],
 	logoUrl: 'https://s40340.pcdn.co/wp-content/uploads/2016/08/MKV-logo_02.png',
 	slogan: 'A modern resort with old Hawaii at heart',
