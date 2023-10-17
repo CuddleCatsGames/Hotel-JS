@@ -1,105 +1,148 @@
-		const hotel = {
-			name: 'Aston Whaler',
-			type: 'Resort',
-			homepage: 'https://www.astonwhaler.com/',
-			description: 'Beachfront leisure at its finest, Aston at The Whaler on Kaanapali Beach offers the tropical escape that dreams are made of.',
-			petsAllowedTrueFalse: false,
-			totalRoomCount: 463,
-			priceRange: '$$$',
-			amenitiesArr: [
-				{
-					name: 'Amenities',
-					url: 'https://www.astonwhaler.com/amenities/',
-					imageUrl: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach_Exterior-Beach-1-1-scaled.jpg'
-				},
-				{
-					name: 'Take It Easy',
-					url: 'https://www.astonwhaler.com/amenities/',
-					imageUrl: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-the-Whaler-gardens-2560x1707-1.jpg'
-				}
-				{
-					name: 'Beach Concierge',
-					url: 'https://www.astonwhaler.com/amenities/',
-					imageUrl: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/211101_Aston-at-the-Whaler_Pre-Selects_CP-10-scaled.jpg'
-				},
-				{
-					name: 'Oceanfront Fire Pit',
-					url: 'https://www.astonwhaler.com/amenities/',
-					imageUrl: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-firetable-008-scaled.jpg'
-				}
-			],
-			roomGroupsArr: [
-				{
-					roomType: 'Studios',
-					numberOfRooms: 'null',
-				},
-				{
-					roomType: '1 bedroom Suites',
-					numberOfRooms: 'null',
-				}
-				{
-					roomType: '2 bedroom Suites',
-					numberOfRooms: 'null',
-				}
-			],
-			currenciesAccepted: 'USD',
-			openingHours: '8:00',
-			paymentAccepted: 'Cash and Card',
-			availableLanguage: 'English',
-			checkInTime: '16:00',
-			checkOutTime: '11:00',
-			imageArr: [
-				{
-					caption: '',
-					url: '',
-				},
-				{
-					caption: '',
-					url: '',
-				}
-			],
-			logoUrl: 'https://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-logo-blue.png',
-			slogan: 'A Tranquil Oasis on Kaanapali Beach',
-			copyrightUrl: 'null',
-			facebookUrl: 'https://www.facebook.com/WhalerKaanapali',
-			twitterUrl: 'https://twitter.com/aquaaston',
-			instagramUrl: 'https://www.instagram.com/aquaaston',
-			linkedinUrl: 'null',
-			contact: {
-				phone: '244-008-002',
-				email: 'info@astonhotels.com',
-			},
-			location: {
-				street: '2481 Kaanapali Parkway',
-				city: 'Lahaina',
-				state: 'HI',
-				zip: '96761',
-				country: 'USA',
-			},
-			lowestPrice: 100,
-			highestPrice: 1500,
-			rating: {
-				value: '4.6',
-				count: '848',
-			},
-			page: {
-				name: 'Home',
-				url: 'https://www.astonwhaler.com/',
-				video: {
-					name: 'null',
-					description: 'null',
-					thumbnailUrl: 'null',
-					contentUrl: '',
-					embedUrl: '',
-					uploadDateISO: 'null',
-					duration: {
-						min: '',
-						sec: '',
-					}
-				},
-				inquireableItem: {
-					type: 'Hotel Room',
-					name: 'Room Name',
-				}
+// Aston Whaler
+const astonWhaler = {
+	name: 'Aston Whaler',
+	type: 'Resort',
+	homepage: 'https://www.astonwhaler.com/',
+	description: 'Beachfront leisure at its finest, Aston at The Whaler on Kaanapali Beach offers the tropical escape that dreams are made of.',
+	petsAllowedTrueFalse: false,
+	totalRoomCount: 463,
+	priceRange: '$$$',
+	amenitiesArr: [
+		{
+			name: 'Amenities',
+			url: 'https://www.astonwhaler.com/amenities/',
+			imageUrl: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach_Exterior-Beach-1-1-scaled.jpg'
+		},
+		{
+			name: 'Take It Easy',
+			url: 'https://www.astonwhaler.com/amenities/',
+			imageUrl: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-the-Whaler-gardens-2560x1707-1.jpg'
+		},
+		{
+			name: 'Beach Concierge',
+			url: 'https://www.astonwhaler.com/amenities/',
+			imageUrl: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/211101_Aston-at-the-Whaler_Pre-Selects_CP-10-scaled.jpg'
+		},
+		{
+			name: 'Oceanfront Fire Pit',
+			url: 'https://www.astonwhaler.com/amenities/',
+			imageUrl: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-firetable-008-scaled.jpg'
+		}
+	],
+	roomGroupsArr: [
+		{
+			roomType: 'Studios',
+			numberOfRooms: null,
+		},
+		{
+			roomType: '1 bedroom Suites',
+			numberOfRooms: null,
+		},
+		{
+			roomType: '2 bedroom Suites',
+			numberOfRooms: null,
+		}
+	],
+	currenciesAccepted: 'USD',
+	openingHours: '8:00',
+	paymentAccepted: 'Cash and Card',
+	availableLanguage: 'English',
+	checkInTime: '16:00',
+	checkOutTime: '11:00',
+	imageArr: [
+		{
+			caption: '',
+			url: '',
+		},
+		{
+			caption: '',
+			url: '',
+		}
+	],
+	logoUrl: 'https://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-logo-blue.png',
+	slogan: 'A Tranquil Oasis on Kaanapali Beach',
+	copyrightUrl: null,
+	facebookUrl: 'https://www.facebook.com/WhalerKaanapali',
+	twitterUrl: 'https://twitter.com/aquaaston',
+	instagramUrl: 'https://www.instagram.com/aquaaston',
+	linkedinUrl: null,
+	contact: {
+		phone: '244-008-002',
+		email: 'info@astonhotels.com',
+	},
+	location: {
+		street: '2481 Kaanapali Parkway',
+		city: 'Lahaina',
+		state: 'HI',
+		zip: '96761',
+		country: 'USA',
+	},
+	lowestPrice: 100,
+	highestPrice: 1500,
+	rating: {
+		value: '4.6',
+		count: '848',
+	},
+	page: {
+		name: 'Home',
+		url: 'https://www.astonwhaler.com/',
+		video: {
+			name: null,
+			description: null,
+			thumbnailUrl: null,
+			contentUrl: '',
+			embedUrl: '',
+			uploadDateISO: null,
+			duration: {
+				min: '',
+				sec: '',
 			}
-		};
+		},
+		inquireableItem: {
+			type: 'Hotel Room',
+			name: 'Room Name',
+		}
+	},
+	roomsArr: [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '', // string
+			url: '', // url
+			bookUrl: '', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '', // number
+			maxPrice: '', // number
+			description: '', // string
+			defaultPrice: '', // number
+			maxOccupancy: '', // number
+			checkInTime: '', // datetime
+			checkOutTime: '', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: '', // string
+					url: '', // url
+				},
+				{
+					caption: '', // string
+					url: '', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		}
+	],
+};
