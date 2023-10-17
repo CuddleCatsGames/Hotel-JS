@@ -60,13 +60,25 @@ const adero = {
 	checkOutTime: '11:00',
 	imageArr: [
 		{
-			caption: '',
-			url: '',
+			caption: 'Inviting Accomodations',
+			url: 'https://www.aderoscottsdale.com/resourcefiles/home-accommodations-images/adero-peloton-room.jpg',
 		},
 		{
-			caption: '',
-			url: '',
+			caption: 'Extraordinary Experiences',
+			url: 'https://www.aderoscottsdale.com/resourcefiles/experiences-images/meetings.jpg',
 		}
+		{
+			caption: 'Dining Elevated',
+			url: 'https://www.aderoscottsdale.com/resourcefiles/home-cuisines-images/cielo-lobby-patio.jpg',
+		},
+		{
+			caption: 'Adero Scottsdale Resort',
+			url: 'https://www.aderoscottsdale.com/resourcefiles/welcome-images/adero-entrance.jpg',
+		}
+		{
+			caption: 'Resort Features',
+			url: 'https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823',
+		},
 	],
 	logoUrl: 'https://www.aderoscottsdale.com/resourcefiles/otherimages/adero-an-autograph-collection-hotel.svg',
 	slogan: 'ABOVE THE DESERT, BENEATH THE STARS',
@@ -324,6 +336,18 @@ const astonKaanapali = {
 			caption: '',
 			url: '',
 		}
+		{
+			caption: '',
+			url: '',
+		},
+		{
+			caption: '',
+			url: '',
+		}
+		{
+			caption: '',
+			url: '',
+		},
 	],
 	logoUrl: 'https://www.astonkaanapalishoresresort.com/img/AKS-logo.png',
 	slogan: 'An Unforgettable Experience',
