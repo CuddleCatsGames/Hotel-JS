@@ -203,29 +203,29 @@ const adero = {
 				},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			name: 'Mountain View, Guest room, 1 King', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.marriott.com/reservation/rateListMenu.mi', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			minPrice: '372', // number
+			maxPrice: '379', // number
+			description: 'Our Mountain View guest rooms offer 400 square feet of effortless contemporary comfort inside, plus a private 100-square-foot balcony for dramatic views. Rooms either face the Four Peaks Mountains or the Arizona Horizon. Located on the first three floors, each indoor/outdoor sanctuary fosters rest and relaxation. A welcoming refuge from a full day of exploration under the Arizona sun. Room location based on availability.', // string
+			defaultPrice: '379', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: false, // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Mountain View, Guest room, 1 King', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-king-resort-7738-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				},
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Mountain View, Guest room, 1 King', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-king-balcony-8257-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				}
 			],
 			roomAmenitiesArr: [
@@ -241,29 +241,29 @@ const adero = {
 				},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			name: 'Mountain View, Guest room, 2 Queen(s)', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.marriott.com/reservation/rateListMenu.mi', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			minPrice: '377', // number
+			maxPrice: '384', // number
+			description: 'Our Mountain View guest rooms offer 400 square feet of effortless contemporary comfort inside, plus a private 100-square-foot balcony for dramatic views. Rooms either face the Four Peaks Mountains or the Arizona Horizon. Located on the first three floors, each indoor/outdoor sanctuary fosters rest and relaxation. A welcoming refuge from a full day of exploration under the Arizona sun. Room location based on availability.', // string
+			defaultPrice: '384', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'Queens', // string
+			smokingBoolean: false, // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Mountain View, Guest room, 2 Queen(s)', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-queen-resort-7742-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				},
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Mountain View, Guest room, 2 Queen(s)', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-bathroom-7732-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				}
 			],
 			roomAmenitiesArr: [
@@ -279,29 +279,29 @@ const adero = {
 				},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			name: 'Sky View, Guest room, 1 King, Top floor', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.marriott.com/reservation/rateListMenu.mi', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			minPrice: '406', // number
+			maxPrice: '414', // number
+			description: 'Inspired by the 360-degree views of the striking Sonoran Desert, our Sky View guest rooms boast 400 square feet of well-lit space and are located on the top floor, providing guests with high view points. Rooms may either face the Four Peak Mountains or the Arizona Horizon—ideal for taking in spectacular vistas of the desert’s ever-changing panoramas. Room location based on availability.', // string
+			defaultPrice: '414', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: false, // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Sky View, Guest room, 1 King, Top floor', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-king-guestroom-8255-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				},
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Sky View, Guest room, 1 King, Top floor', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-king-resort-7739-ver-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				}
 			],
 			roomAmenitiesArr: [
@@ -317,29 +317,29 @@ const adero = {
 				},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			name: 'Sky View, Guest room, 2 Queen(s), Top floor', // string
+			url: 'https://www.aderoscottsdale.com/rooms-suites', // url
+			bookUrl: 'https://www.marriott.com/reservation/rateListMenu.mi', // url
 			tourUrl: '', // url
 			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			minPrice: '426', // number
+			maxPrice: '434', // number
+			description: 'Inspired by the 360-degree views of the striking Sonoran Desert, our Sky View guest rooms boast 400 square feet of well-lit space and are located on the top floor, providing guests with high view points. Rooms may either face the Four Peak Mountains or the Arizona Horizon—ideal for taking in spectacular vistas of the desert’s ever-changing panoramas. Room location based on availability.', // string
+			defaultPrice: '434', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'Queens', // string
+			smokingBoolean: false, // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Sky View, Guest room, 2 Queen(s), Top floor', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-queen-guestroom-8254-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				},
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Sky View, Guest room, 2 Queen(s), Top floor', // string
+					url: 'https://cache.marriott.com/content/dam/marriott-renditions/PHXAF/phxaf-queen-resort-7743-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=934:525', // url
 				}
 			],
 			roomAmenitiesArr: [
