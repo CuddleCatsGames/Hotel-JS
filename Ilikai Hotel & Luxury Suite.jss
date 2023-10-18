@@ -207,41 +207,345 @@ const ilikai = {
 	},
 	roomsArr: [
 		{
-			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite Sunset Ocean View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
 			tourUrl: '', // url
-			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '289', // number
+			maxPrice: '589', // number
+			description: 'A highly desired accommodation, where the best amenity is the view. These 500 square foot studios are furnished with upscale appliances and modern fixtures that exude the style and comfort you would expect to find in a luxury suite.', // string
+			defaultPrice: '289', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King and Queen', // string
+			smokingBoolean: '', // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Luxury Junior Suite Sunset Ocean View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-ilikai-luxury-suites-sunset-ocean-view.jpg', // url
 				},
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Luxury Junior Suite Sunset Ocean View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-ilikai-luxury-suites-sunset-ocean-view2.jpg', // url
 				}
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
 					imageUrl: '' // url
 				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite City View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '289', // number
+			maxPrice: '589', // number
+			description: 'Modern and chic, this junior suite includes high-end furniture with modern style. Large bathroom has custom tile, granite, glass, and a massage jet showerhead. Full kitchen with granite counter tops.', // string
+			defaultPrice: '', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
 				{
-					name: '', // string
-					url: '', // url
+					caption: 'Luxury Junior Suite City View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/Ilikai_Hotel_&_Luxury_Suites_Bed_Detail_Blvd_435x275-1.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite Courtyard View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '289', // number
+			maxPrice: '589', // number
+			description: 'Glimpse our bustling courtyard and surrounding area. Suite features a full gourmet kitchen, seating area, and private lanai.', // string
+			defaultPrice: '289', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed & Queen Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Luxury Junior Suite Courtyard View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275_Ilikai_Hotel_&_Luxury_Suites_Jr_Suite_Courtyard_View.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite Poolside View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '289', // number
+			maxPrice: '589', // number
+			description: 'Indulge in luxury, this junior suite includes high-end furniture with modern style. Spacious patio offers views of the pool and sundeck. Large bathroom has custom tile, granite, glass, and a massage jet showerhead. Full kitchen with granite counter tops.', // string
+			defaultPrice: '289', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King Platform Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Luxury Junior Suite Poolside View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275_Ilikai_Hotel_&_Luxury_Suites_Jr_Suite_Poolside_View.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite Partial Ocean View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '249', // number
+			maxPrice: '589', // number
+			description: 'Always a grandeur experience, this junior suite includes high-end furniture with modern style. Spacious patio overlooks the marina and offers sunset views. Large bathroom has custom tile, granite, glass, and a massage jet showerhead. Full kitchen with granite counter tops.', // string
+			defaultPrice: '289', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King Platform Bed', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: 'Luxury Junior Suite Partial Ocean View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/Ilikai_Hotel_&_Luxury_Suites_Luxury_Jr-Suite_Partial_Ocean-View_435x275.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite Ocean View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '289', // number
+			maxPrice: '600', // number
+			description: 'Prepare a cocktail and relax on your 120 square foot lanai, taking in views of Duke Kahanamoku Lagoon and the Pacific Ocean beyond. Some rooms may even offer views of the Friday night fireworks (subject to availability).', // string
+			defaultPrice: '289', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed & Queen Sofa Bed', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: 'Luxury Junior Suite Ocean View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/800x600-ilikai-luxury-suites-ocean-view.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury 1-Bedroom Boulevard View Suite', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '389', // number
+			maxPrice: '700', // number
+			description: 'This suite with a bedroom and separate living area offers a bird’s-eye view of Ala Moana Boulevard. Suite features a full gourmet kitchen, seating area, and private lanai.', // string
+			defaultPrice: '389', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'Kings & Queen Sofa Bed', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: 'Luxury 1-Bedroom Boulevard View Suite', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275_luxury-1-bedroom-boulevard-view-with-kitchen.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury 1-Bedroom Ocean View Suite', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '400', // number
+			maxPrice: '800', // number
+			description: 'Spread out in this suite with one bedroom that offers a separate living area and relaxing views that overlook Duke Kahanamoku Lagoon and extend to the Pacific Ocean. Suite also features a full gourmet kitchen and private balcony.', // string
+			defaultPrice: '400', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Queen Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Luxury 1-Bedroom Ocean View Suite', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-1BROV-Bedroom.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury 2-Bedroom City View Suite', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '580', // number
+			maxPrice: '1000', // number
+			description: 'With 1,240 total square feet, our two-bedroom suites are an ideal home-away-from-home for families. Suite features two bathrooms, a full gourmet kitchen, seating area, and private lanai.', // string
+			defaultPrice: '580', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'Kings & Queen Sofa Bed', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: 'Luxury 2-Bedroom City View Suite', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275_Ilikai_Hotel_&_Luxury_Suites_2-Bedroom_Boulevard_View-1.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury 2-Bedroom Ocean View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '670', // number
+			maxPrice: '1000', // number
+			description: 'Experience the breathtaking views of the Pacific Ocean and Duke Kahanamoku Lagoon. Perfect for families or large groups, these 1240 square foot studios are furnished with fully-equipped kitchens and new stainless steel appliances. Both bedrooms feature a single king bed along with all the premium amenities that our other luxury suites offer.', // string
+			defaultPrice: '670', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'King Beds & Queen Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Luxury 2-Bedroom Ocean View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-ilikai-luxury-suites-ocean-view.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury 2-Bedroom Oceanfront', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '750', // number
+			maxPrice: '1030', // number
+			description: 'This suite will leave you in pure bliss as you enjoy all day views starting with the morning beach backdrop, to spectacular unforgettable sunsets. Located on the upper floors, suite features two separate bedrooms and a spacious living and dining area. Suite includes two large bathrooms featuring custom tile, granite, glass and a massage jet showerhead. Fully equipped kitchen with granite counter tops.', // string
+			defaultPrice: '750', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'Kings & Queen Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Luxury 2-Bedroom Oceanfront', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275_Ilikai_Hotel_&_Luxury_Suites_2-Bedroom_Oceanfront.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
 					imageUrl: '' // url
 				},
 			],
