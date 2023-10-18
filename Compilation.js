@@ -1963,13 +1963,25 @@ const astonWhaler = {
 	checkOutTime: '11:00',
 	imageArr: [
 		{
-			caption: '',
-			url: '',
+			caption: 'The Spirit of Aloha',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Living-Area-452-006-scaled.jpg',
 		},
 		{
-			caption: '',
-			url: '',
+			caption: 'Your Home Away From Home',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-lobby-2560x935-1.jpg',
 		}
+		{
+			caption: 'Select Your Condo',
+			url: 'http://www.astonwhaler.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-exterior-aerial-2560x1440_rc-1.jpg',
+		},
+		{
+			caption: 'Elevate Your Experience',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/home-fullbleed-1.jpg',
+		}
+			{
+			caption: 'Camera Ready',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-firetable-008-scaled.jpg',
+		},	 
 	],
 	logoUrl: 'https://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-logo-blue.png',
 	slogan: 'A Tranquil Oasis on Kaanapali Beach',
