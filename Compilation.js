@@ -2398,9 +2398,185 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
+		 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '2-Bedroom 2-Bath Garden View Suite', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '600', // number
+			maxPrice: '1000', // number
+			description: 'Spend your downtime in our spacious two-bedroom suites with tropical garden views. Suite features two bathrooms, a living area, fully equipped kitchen, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '2-Bedroom 2-Bath Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-2-BA-Garden-Living-Area-2-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom 2-Bath Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-2-BA-Garden-Living-Area-1-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+					 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '2-Bedroom 2-Bath Ocean View Suite', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '600', // number
+			maxPrice: '1000', // number
+			description: 'With gorgeous views of the Pacific, this spacious two-bedroom suite is the perfect place to unwind. Suite features two bathrooms, a living area, a fully equipped kitchen, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '2-Bedroom 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Living-Area-873-004-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Balcony2-873-018-1-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+					 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '2-Bedroom Ocean View Premium', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '600', // number
+			maxPrice: '1000', // number
+			description: 'This premium suite offers maximum space plus beautiful ocean views. Suite features updated furnishings, a fully equipped kitchen with modern appliances, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: '2-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Premium-Living-Area-1173-005-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-Premium-Kitchen-359-022-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+					 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '2-Bedroom Oceanfront', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '650', // number
+			maxPrice: '1000', // number
+			description: 'Indulge with picturesque oceanfront views of the Pacific and a large wraparound balcony to soak it all up. Suite features two bedrooms, two bathrooms, a living area, and a fully equipped kitchen. ', // string
+			defaultPrice: '650', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: '2-Bedroom Oceanfront', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-Oceanfront-Living-Area-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Oceanfront-Kitchen-651-002-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+					 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '2-Bedroom Oceanfront Premium', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '650', // number
+			maxPrice: '1000', // number
+			description: 'What dream vacations are made of, this is the best suite in the house. Enjoy serene oceanfront views of the Pacific Ocean and a large private wraparound balcony. Suite features two bedrooms, two bathrooms, updated furnishings, a living area, and fully equipped designer kitchen.', // string
+			defaultPrice: '650', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: '2-Bedroom Oceanfront Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Living-Area-452-006-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Kitchen-452-009-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
 		}
 	],
 };
+						 
 // Espacio Waikiki
 const espacio = {
 	name: 'Espacio Waikiki',
@@ -2497,47 +2673,323 @@ const espacio = {
 	},
 	roomsArr: [
 		{
-			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Penthouse Diamond Suite', // string
+			url: 'https://www.espaciowaikiki.com/luxury-suites/', // url
+			bookUrl: 'https://www.espaciowaikiki.com/luxury-suites/penthouse-suite/', // url
 			tourUrl: '', // url
-			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '11000', // number
+			maxPrice: '12500', // number
+			description: 'With breathtaking panoramic views, the luxurious oceanfront Diamond Penthouse Suite at ESPACIO provides the ultimate world-class experience. Indulge in the exclusive bespoke amenities and curated experiences provided for penthouse guests only.', // string
+			defaultPrice: '11000', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'King Beds + Sofa Bed', // string
+			smokingBoolean: '', // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Penthouse Diamond Suite', // string
+					url: 'https://www.espaciowaikiki.com/app/images/pent.jpg', // url
 				},
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Penthouse Diamond Suite', // string
+					url: 'https://s40336.pcdn.co/wp-content/uploads/2022/04/ESPACIO-suite-penthouse-master-bedroom-1000x667-1.jpg', // url
 				}
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Accesibility', // string
+					url: 'https://www.espaciowaikiki.com/luxury-suites/penthouse-diamond-suite/#accessibility', // url
 					imageUrl: '' // url
 				},
+			],
+		  [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Oceanfront Suites Sapphire', // string
+			url: 'https://www.espaciowaikiki.com/luxury-suites/oceanfront-sapphire-suite-two-bedrooms/', // url
+			bookUrl: 'https://www.espaciowaikiki.com/luxury-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '7800', // number
+			maxPrice: '10800', // number
+			description: 'Occupying the 12th floor of ESPACIO, this oceanfront suite allows guests to take in panoramic views of the Pacific Ocean from an expansive private balcony, or through floor-to-ceiling glass windows in the spacious living area.', // string
+			defaultPrice: '7800', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'King Beds + Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
 				{
-					name: '', // string
-					url: '', // url
+					caption: 'Oceanfront 2 Bedroom + Den', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-saphire-living-area-1.jpg', // url
+				},
+				{
+					caption: 'Oceanfront 2 Bedroom + Den', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-saphire-living-area-2.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Accesibility', // string
+					url: 'https://www.espaciowaikiki.com/luxury-suites/oceanfront-sapphire-suite-two-bedrooms/#accessibility', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Oceanfront Suite Azul', // string
+			url: 'https://www.espaciowaikiki.com/luxury-suites/oceanfront-azul-suite-three-bedrooms/', // url
+			bookUrl: 'https://www.espaciowaikiki.com/luxury-suites/oceanfront-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '8700', // number
+			maxPrice: '12000', // number
+			description: 'The Azul Suite on the 11th floor features oceanfront views and sleeps up to 6 people in 3 bedrooms.', // string
+			defaultPrice: '8700', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'King Beds', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Oceanfront Suite', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-saphire-living-area-2.jpg', // url
+				},
+				{
+					caption: 'Oceanfront Suite', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-saphire-2nd-bedroom-3.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Accesibility', // string
+					url: 'https://www.espaciowaikiki.com/luxury-suites/oceanfront-azul-suite-three-bedrooms/#accessibility', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Ocean View Emerald', // string
+			url: 'https://www.espaciowaikiki.com/luxury-suites/luxury-suite-premium-view-two-bedrooms/', // url
+			bookUrl: 'https://www.espaciowaikiki.com/luxury-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '5400', // number
+			maxPrice: '8400', // number
+			description: 'The Emerald suite features premium ocean views with 2 bedrooms and a den. 1-6 person suite occupancy.', // string
+			defaultPrice: '5400', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'King Beds + Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Emerald Suite', // string
+					url: 'https://s40336.pcdn.co/wp-content/uploads/2022/04/ESPACIO-THE-JEWEL-OF-WAIKIKI-Luxury-Green-Suite-Premium-View-Living-Room-3000X2000-scaled.jpg', // url
+				},
+				{
+					caption: 'Emerald Suite', // string
+					url: 'https://s40336.pcdn.co/wp-content/uploads/2022/04/ESPACIO-THE-JEWEL-OF-WAIKIKI-Luxury-Green-Suite-Premium-Jacuzzi-Green-Robe-3000X2000-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Accesibility', // string
+					url: 'https://www.espaciowaikiki.com/luxury-suites/luxury-suite-premium-view-two-bedrooms/#accessibility', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Ocean View Suite Peridot', // string
+			url: 'https://www.espaciowaikiki.com/luxury-suites/ocean-view-peridot-suite-three-bedrooms/', // url
+			bookUrl: 'https://www.espaciowaikiki.com/luxury-suites/ocean-view-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '6600', // number
+			maxPrice: '9600', // number
+			description: 'The Peridot suite features premium ocean views with three bedrooms. 1-6 person suite occupancy.', // string
+			defaultPrice: '6600', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'King Beds', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Ocean Views', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-jade-kitchen-1.jpg', // url
+				},
+				{
+					caption: 'Ocean Views', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-jade-master-bedroom.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Accessibility', // string
+					url: 'https://www.espaciowaikiki.com/luxury-suites/ocean-view-peridot-suite-three-bedrooms/#accessibility', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Ocean View Jade', // string
+			url: 'https://www.espaciowaikiki.com/luxury-suites/luxury-suite-premium-view-three-bedrooms/', // url
+			bookUrl: 'https://www.espaciowaikiki.com/luxury-suites/ocean-view-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '6300', // number
+			maxPrice: '9600', // number
+			description: 'The Jade suite features premium ocean views with three bedrooms. 1-6 person suite occupancy.', // string
+			defaultPrice: '6300', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'King Beds', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Ocean Views', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-jade-master-bedroom.jpg', // url
+				},
+				{
+					caption: 'Ocean Views', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-jade-kitchen-2.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Accessibility', // string
+					url: 'https://www.espaciowaikiki.com/luxury-suites/luxury-suite-premium-view-three-bedrooms/#accessibility', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'Suites', // string -> HotelRoom or Suite
+			name: 'Beach View Suites Ruby', // string
+			url: 'https://www.espaciowaikiki.com/luxury-suites/luxury-suite-two-bedroom/', // url
+			bookUrl: 'https://www.espaciowaikiki.com/luxury-suites/beach-view-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '2700', // number
+			maxPrice: '6000', // number
+			description: 'Opulent and refined, our Coral, Ruby, and Garnet Beach View Suites offer energizing views of Waikiki Beach. Impressive in-suite amenities create the perfect atmosphere for an unforgettable getaway.', // string
+			defaultPrice: '2700', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Beds + Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Beach Views', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-coral-master-bedroom-balcony-view.jpg', // url
+				},
+				{
+					caption: 'Beach Views', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-coral-living-area-1.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Accessibility', // string
+					url: 'https://www.espaciowaikiki.com/luxury-suites/luxury-suite-two-bedroom/#accessibility', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Beach view Garnet', // string
+			url: 'https://www.espaciowaikiki.com/luxury-suites/luxury-suite-three-bedroom/', // url
+			bookUrl: 'https://www.espaciowaikiki.com/luxury-suites/beach-view-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '2700', // number
+			maxPrice: '6000', // number
+			description: 'Opulent and refined, our Coral, Ruby, and Garnet Beach View Suites offer energizing views of Waikiki Beach. Impressive in-suite amenities create the perfect atmosphere for an unforgettable getaway.', // string
+			defaultPrice: '2700', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'King Beds', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Beach View Suite', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-coral-master-bedroom-balcony-view.jpg', // url
+				},
+				{
+					caption: 'Beach View Suite', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-coral-3rd-bedroom.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Accessibility', // string
+					url: 'https://www.espaciowaikiki.com/luxury-suites/luxury-suite-three-bedroom/#accessibility', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Coral Accessible Suite', // string
+			url: 'https://www.espaciowaikiki.com/luxury-suites/luxury-suite-three-bedroom-accessible/', // url
+			bookUrl: 'https://www.espaciowaikiki.com/luxury-suites/beach-view-suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '3000', // number
+			maxPrice: '6000', // number
+			description: 'Opulent and refined, our Coral, Ruby, and Garnet Beach View Suites offer energizing views of Waikiki Beach. Impressive in-suite amenities create the perfect atmosphere for an unforgettable getaway.', // string
+			defaultPrice: '3000', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'King Beds', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Beach View Suite', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-coral-master-bedroom-balcony-view.jpg', // url
+				},
+				{
+					caption: 'Beach View Suite', // string
+					url: 'https://www.espaciowaikiki.com/app/images/luxury-suites/suite-slider-coral-living-area-1.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Accessibility', // string
+					url: 'https://www.espaciowaikiki.com/luxury-suites/luxury-suite-three-bedroom/#accessibility', // url
 					imageUrl: '' // url
 				},
 			],
 		}
 	],
 };
+
 
 // Ilikai Hotel & Luxury Suites
 const ilikai = {
@@ -2748,47 +3200,352 @@ const ilikai = {
 	},
 	roomsArr: [
 		{
-			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite Sunset Ocean View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
 			tourUrl: '', // url
-			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '289', // number
+			maxPrice: '589', // number
+			description: 'A highly desired accommodation, where the best amenity is the view. These 500 square foot studios are furnished with upscale appliances and modern fixtures that exude the style and comfort you would expect to find in a luxury suite.', // string
+			defaultPrice: '289', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King and Queen', // string
+			smokingBoolean: '', // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Luxury Junior Suite Sunset Ocean View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-ilikai-luxury-suites-sunset-ocean-view.jpg', // url
 				},
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Luxury Junior Suite Sunset Ocean View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-ilikai-luxury-suites-sunset-ocean-view2.jpg', // url
 				}
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
 					imageUrl: '' // url
 				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite City View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '289', // number
+			maxPrice: '589', // number
+			description: 'Modern and chic, this junior suite includes high-end furniture with modern style. Large bathroom has custom tile, granite, glass, and a massage jet showerhead. Full kitchen with granite counter tops.', // string
+			defaultPrice: '', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
 				{
-					name: '', // string
-					url: '', // url
+					caption: 'Luxury Junior Suite City View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/Ilikai_Hotel_&_Luxury_Suites_Bed_Detail_Blvd_435x275-1.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite Courtyard View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '289', // number
+			maxPrice: '589', // number
+			description: 'Glimpse our bustling courtyard and surrounding area. Suite features a full gourmet kitchen, seating area, and private lanai.', // string
+			defaultPrice: '289', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed & Queen Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Luxury Junior Suite Courtyard View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275_Ilikai_Hotel_&_Luxury_Suites_Jr_Suite_Courtyard_View.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite Poolside View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '289', // number
+			maxPrice: '589', // number
+			description: 'Indulge in luxury, this junior suite includes high-end furniture with modern style. Spacious patio offers views of the pool and sundeck. Large bathroom has custom tile, granite, glass, and a massage jet showerhead. Full kitchen with granite counter tops.', // string
+			defaultPrice: '289', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King Platform Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Luxury Junior Suite Poolside View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275_Ilikai_Hotel_&_Luxury_Suites_Jr_Suite_Poolside_View.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite Partial Ocean View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '249', // number
+			maxPrice: '589', // number
+			description: 'Always a grandeur experience, this junior suite includes high-end furniture with modern style. Spacious patio overlooks the marina and offers sunset views. Large bathroom has custom tile, granite, glass, and a massage jet showerhead. Full kitchen with granite counter tops.', // string
+			defaultPrice: '289', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King Platform Bed', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: 'Luxury Junior Suite Partial Ocean View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/Ilikai_Hotel_&_Luxury_Suites_Luxury_Jr-Suite_Partial_Ocean-View_435x275.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Luxury Junior Suite Ocean View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '289', // number
+			maxPrice: '600', // number
+			description: 'Prepare a cocktail and relax on your 120 square foot lanai, taking in views of Duke Kahanamoku Lagoon and the Pacific Ocean beyond. Some rooms may even offer views of the Friday night fireworks (subject to availability).', // string
+			defaultPrice: '289', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King Bed & Queen Sofa Bed', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: 'Luxury Junior Suite Ocean View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/800x600-ilikai-luxury-suites-ocean-view.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury 1-Bedroom Boulevard View Suite', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '389', // number
+			maxPrice: '700', // number
+			description: 'This suite with a bedroom and separate living area offers a bird’s-eye view of Ala Moana Boulevard. Suite features a full gourmet kitchen, seating area, and private lanai.', // string
+			defaultPrice: '389', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'Kings & Queen Sofa Bed', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: 'Luxury 1-Bedroom Boulevard View Suite', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275_luxury-1-bedroom-boulevard-view-with-kitchen.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury 1-Bedroom Ocean View Suite', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '400', // number
+			maxPrice: '800', // number
+			description: 'Spread out in this suite with one bedroom that offers a separate living area and relaxing views that overlook Duke Kahanamoku Lagoon and extend to the Pacific Ocean. Suite also features a full gourmet kitchen and private balcony.', // string
+			defaultPrice: '400', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Queen Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Luxury 1-Bedroom Ocean View Suite', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-1BROV-Bedroom.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury 2-Bedroom City View Suite', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '580', // number
+			maxPrice: '1000', // number
+			description: 'With 1,240 total square feet, our two-bedroom suites are an ideal home-away-from-home for families. Suite features two bathrooms, a full gourmet kitchen, seating area, and private lanai.', // string
+			defaultPrice: '580', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'Kings & Queen Sofa Bed', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: 'Luxury 2-Bedroom City View Suite', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275_Ilikai_Hotel_&_Luxury_Suites_2-Bedroom_Boulevard_View-1.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury 2-Bedroom Ocean View', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '670', // number
+			maxPrice: '1000', // number
+			description: 'Experience the breathtaking views of the Pacific Ocean and Duke Kahanamoku Lagoon. Perfect for families or large groups, these 1240 square foot studios are furnished with fully-equipped kitchens and new stainless steel appliances. Both bedrooms feature a single king bed along with all the premium amenities that our other luxury suites offer.', // string
+			defaultPrice: '670', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'King Beds & Queen Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Luxury 2-Bedroom Ocean View', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-ilikai-luxury-suites-ocean-view.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: 'Luxury 2-Bedroom Oceanfront', // string
+			url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			bookUrl: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '750', // number
+			maxPrice: '1030', // number
+			description: 'This suite will leave you in pure bliss as you enjoy all day views starting with the morning beach backdrop, to spectacular unforgettable sunsets. Located on the upper floors, suite features two separate bedrooms and a spacious living and dining area. Suite includes two large bathrooms featuring custom tile, granite, glass and a massage jet showerhead. Fully equipped kitchen with granite counter tops.', // string
+			defaultPrice: '750', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '3', // number
+			bedType: 'Kings & Queen Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Luxury 2-Bedroom Oceanfront', // string
+					url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275_Ilikai_Hotel_&_Luxury_Suites_2-Bedroom_Oceanfront.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Standard In-Room Amenities', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
 					imageUrl: '' // url
 				},
 			],
 		}
 	],
 };
+
 
 // Maui Kaanapali Villas
 const mauiKaanapali = {
@@ -2977,30 +3734,26 @@ const mauiKaanapali = {
 	roomsArr: [
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
-			name: '', // string
-			url: '', // url
-			bookUrl: '', // url
+			name: 'Hotel Room', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
 			tourUrl: '', // url
-			petsAllowedTrueOrFalse: true, // boolean
-			minPrice: '', // number
-			maxPrice: '', // number
-			description: '', // string
-			defaultPrice: '', // number
-			maxOccupancy: '', // number
-			checkInTime: '', // datetime
-			checkOutTime: '', // datetime
-			bedCount: '', // number
-			bedType: '', // string
-			smokingBoolean: true, // boolean
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '248', // number
+			maxPrice: '589', // number
+			description: 'Our spacious hotel room offers the basic necessities for a comfortable place to unwind. Amenities include central air conditioning, a coffee maker, and mini-refrigerator.', // string
+			defaultPrice: '248', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King or Queen Bed', // string
+			smokingBoolean: '', // boolean
 			images: [
 				{
-					caption: '', // string
-					url: '', // url
+					caption: 'Hotel Room', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-rooms-standard-bedroom-1440x993-1-1030x710.jpg', // url
 				},
-				{
-					caption: '', // string
-					url: '', // url
-				}
 			],
 			roomAmenitiesArr: [
 				{
@@ -3008,6 +3761,559 @@ const mauiKaanapali = {
 					url: '', // url
 					imageUrl: '' // url
 				},
+			],
+		 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Hotel Room Deluxe', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '350', // number
+			maxPrice: '600', // number
+			description: 'This hotel room deluxe features upgraded décor and a contemporary bathroom. Amenities include central air conditioning, a coffee maker, and mini-refrigerator.', // string
+			defaultPrice: '350', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King or Queen Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Hotel Room Deluxe', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-bedroom-1440x993-1-1030x710.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Hotel Room Premium', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '269', // number
+			maxPrice: '580', // number
+			description: 'For an upgraded stay, our hotel room premium features upscale décor and a modern well-appointed bathroom. This room includes central air conditioning, a coffee maker, and mini-refrigerator.', // string
+			defaultPrice: '269', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King or Queen Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Hotel Room Premium', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-premium-bed-1440x964-1-1030x690.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Studio Garden View', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '250', // number
+			maxPrice: '580', // number
+			description: 'Take in views of our tropical gardens and lush landscape. Simple and equipped with the basic necessities, this studio features a full kitchen and bathroom.', // string
+			defaultPrice: '250', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Studio Garden View', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-Studio-GV-1-8192x5464-large-1030x687.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Studio Garden View Deluxe', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '350', // number
+			maxPrice: '700', // number
+			description: 'This deluxe studio offers serene tropical views of our surrounding gardens. Studio features quality furnishings and a contemporary kitchen and bathroom.', // string
+			defaultPrice: '350', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Studio Garden View Deluxe', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-bedroom-1440x993-1-1030x710.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Studio Garden View Premium', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '400', // number
+			maxPrice: '700', // number
+			description: 'With upscale decor and views of our lush tropical gardens, this premium studio offers some added luxury to comfortable accommodations. Premium studios feature modern upgraded kitchens and bathrooms for up to three people.', // string
+			defaultPrice: '400', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Studio Garden View Premium', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-premium-bedroom-1440x993-2-1030x710.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom Garden View', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '350', // number
+			maxPrice: '800', // number
+			description: 'This spacious 1-bedroom suite offers views of our tropical gardens. Suite features a separate living area and fully equipped kitchen.', // string
+			defaultPrice: '', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '1-Bedroom Garden View', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-1bdrm-garden-view-bedroom-1440x822-1-1030x588.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom Garden View Deluxe', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: ', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '350', // number
+			maxPrice: '800', // number
+			description: 'Our 1-bedroom garden view deluxe suite offers views of our lush tropical landscape. This suite is large enough to accommodate up to four people, and features quality furnishings with a contemporary kitchen and bathroom.', // string
+			defaultPrice: '350', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '', // string
+					url: '', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom Garden View Premium', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '350', // number
+			maxPrice: '800', // number
+			description: 'With premium amenities and more space to spread out, this 1 bedroom suite offers serene views of our tropical landscape. Suite features upgraded furnishings, a separate living area, designer bathroom, and a fully equipped gourmet kitchen', // string
+			defaultPrice: '350', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '1-Bedroom Garden View Premium', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-1BD-GV-Premium-Bedroom-1-8192x5464-large-1030x687.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Studio Ocean View', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '350', // number
+			maxPrice: '800', // number
+			description: 'Take in peaceful views of the sparkling Pacific Ocean. This studio features simple and clean appointments, central air conditioning, and a fully equipped kitchen.', // string
+			defaultPrice: '350', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Studio Ocean View', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-ocean-view-living-area_1440x993-1030x710.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Studio Ocean View Premium', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '480', // number
+			maxPrice: '800', // number
+			description: 'Upgrade your getaway with beautiful Pacific Ocean views and premium amenities. This studio features upgraded furnishings, a designer bathroom, and fully equipped gourmet kitchen.', // string
+			defaultPrice: '480', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Studio Ocean View Premium', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2023/09/Aston-Maui-Kaanapali-Villa-%E2%80%93-Studio-Ocean-View-Premium-Bed-1030x687.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Studio Oceanside', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '450', // number
+			maxPrice: '800', // number
+			description: 'This studio offers a large balcony and easy access to the beach. Studio features central air conditioning and a fully equipped kitchen.', // string
+			defaultPrice: '450', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Studio Oceanside', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-outside-premium-living-1440x938-1-1030x757.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Studio Oceanside Premium', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '350', // number
+			maxPrice: '800', // number
+			description: 'Upgrade your vacation and stay just steps from the beach in our premium studios with modern amenities and easy access to the oceanfront. Studio features upscale furnishings, a designer bathroom, and fully equipped gourmet kitchen.', // string
+			defaultPrice: '350', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: 'Studio Oceanside Premium', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-studio-premium-1440x1053-1-1030x753.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom Ocean View', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '500', // number
+			maxPrice: '1100', // number
+			description: 'Enjoy beautiful views of the sparkling Pacific Ocean from this spacious suite with one bedroom. Suite features central air conditioning, a separate living area, and fully equipped kitchen.', // string
+			defaultPrice: '500', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '1-Bedroom Ocean View', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2022/10/Aston-Maui-Kaanapali-Villas-1-Bedroom-Ocean-View-Bedroom-1030x691.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom Ocean View Premium', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '500', // number
+			maxPrice: '800', // number
+			description: 'Treat your vacation to an upgrade with premium amenities and gorgeous ocean views. Suite features upgraded furnishings, a separate living area, designer bathroom, and fully equipped gourmet kitchen.', // string
+			defaultPrice: '500', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '1-Bedroom Ocean View Premium', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2023/09/Aston-Maui-Kaanapali-Villa-%E2%80%93-1-Bedroom-Ocean-View-Premium-Bedroom-1030x687.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		   [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom Oceanside', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '900', // number
+			maxPrice: '1100', // number
+			description: 'Experience true leisure in this 1-bedroom suite with a private balcony and easy access to the beach. Suite features air conditioning, a separate living area, and fully equipped kitchen.', // string
+			defaultPrice: '900', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '1-Bedroom Oceanside', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-1bdrm-oceanside-bedroom-1440x957-1-1030x685.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		  [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom Oceanside Premium', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '500', // number
+			maxPrice: '1200', // number
+			description: 'The ultimate luxury, this upgraded 1-bedroom suite offers premium amenities and oceanside access to the beach. Suite features upgraded furnishings, a separate living area, designer bathroom, and fully equipped gourmet kitchen.', // string
+			defaultPrice: '500', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King & Sofa Bed or Queen & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '1-Bedroom Oceanside Premium', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2023/09/Aston-Maui-Kaanapali-Villa-%E2%80%93-1-Bedroom-Oceanside-Premium-Bedroom-1030x687.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '2-Bedroom Suite Deluxe', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '500', // number
+			maxPrice: '1100', // number
+			description: 'Ideal for families and small groups, this two bedroom suite offers maximum space and comfort. Suite features central air conditioning, a separate living area, and fully equipped kitchen.', // string
+			defaultPrice: '500', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King, Queen Bed & Sofa Bed', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '2-Bedroom Suite Deluxe', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-2-bedroom-suite-deluxe_master-bedroom-1440x993-1-1030x710.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '1-Bedroom Oceanfront Premium', // string
+			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '500', // number
+			maxPrice: '1100', // number
+			description: 'With 180-degree unobstructed oceanfront views, this premium 1-bedroom suite offers an elevated vacation experience. Suite features upgraded furnishings, a separate living area, designer bathroom, and fully equipped gourmet kitchen.', // string
+			defaultPrice: '500', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '1-Bedroom Oceanfront Premium', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/Aston-Maui-Kaanapali-Villas-1-Bedroom-Oceanfront-Premium_Bedroom-2_5040x3360-medium-1030x687.jpg', // url
+				},
+			],
+			roomAmenitiesArr: [
 				{
 					name: '', // string
 					url: '', // url
@@ -3017,3 +4323,4 @@ const mauiKaanapali = {
 		}
 	],
 };
+
