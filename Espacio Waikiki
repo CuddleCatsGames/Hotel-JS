@@ -1,94 +1,137 @@
-		const hotel = {
-			name: 'Espacio Waikiki',
-			type: 'Hotel',
-			homepage: 'https://www.espaciowaikiki.com/',
-			description: 'Welcome to a first-of-its-kind Hawaii hotel; the new pinnacle of luxury, privacy, design and world-class hospitality.',
-			petsAllowedTrueFalse: false,
-			totalRoomCount: 9,
-			priceRange: '$$$',
-			amenitiesArr: [
-				{
-					name: 'Experience',
-					url: 'https://www.espaciowaikiki.com/experience/',
-					imageUrl: 'https://s40336.pcdn.co/wp-content/uploads/2021/06/ESPACIO-master-bedroom-650x415-1.jpg'
-				},
-			],
-			roomGroupsArr: [
-				{
-					roomType: 'Penthouse Diamond Suite',
-					numberOfRooms: 1,
-				},
-				{
-					roomType: 'Oceanfront Suites',
-					numberOfRooms: 2,
-				}
-				{
-					roomType: 'Ocean View Suites',
-					numberOfRooms: '3',
-				},
-				{
-					roomType: 'Beach View Suites',
-					numberOfRooms: '3',
-				}
-			],
-			currenciesAccepted: 'USD',
-			openingHours: '8:00',
-			paymentAccepted: 'Cash and Cards',
-			availableLanguage: 'English',
-			checkInTime: '16:00',
-			checkOutTime: '11:00',
-			imageArr: [
-				{
-					caption: '',
-					url: '',
-				},
-				{
-					caption: '',
-					url: '',
-				}
-			],
-			logoUrl: 'https://www.espaciowaikiki.com/app/images/logo-primary.svg',
-			slogan: 'The Jewel of Waikiki',
-			copyrightUrl: 'null',
-			facebookUrl: 'https://www.facebook.com/espaciowaikiki',
-			twitterUrl: 'https://twitter.com/espaciowaikiki',
-			instagramUrl: 'https://www.instagram.com/espaciowaikiki/',
-			linkedinUrl: 'https://www.linkedin.com/company/espacio-waikiki/',
-			contact: {
-				phone: '1.844.672.0799',
-				email: 'espaciores@espaciowaikiki.com',
-			},
-			location: {
-				street: '2452 Kalakaua Avenue',
-				city: 'Honolulu',
-				state: 'HI',
-				zip: '96815',
-				country: 'USA',
-			},
-			lowestPrice: 4200,
-			highestPrice: 12000,
-			rating: {
-				value: '4.5',
-				count: '44',
-			},
-			page: {
-				name: 'Home',
-				url: 'https://www.espaciowaikiki.com/',
-				video: {
-					name: 'Luxury Hotel in Honolulu',
-					description: 'ESPACIO The Jewel of Waikiki, named Condé Nast Travelers’ #1 hotel in Hawaii, redefines the luxury hotel experience. It is the only hotel in Hawaii to be awarded Forbes Travel Guide’s Five-Star Honor for both the hotel and Mugen restaurant.',
-					thumbnailUrl: 'null',
-					contentUrl: '',
-					embedUrl: '',
-					uploadDateISO: 'null',
-					duration: {
-						min: '',
-						sec: '',
-					}
-				},
-				inquireableItem: {
-					type: 'Hotel Room',
-					name: 'Room Name',
-				}
+// Espacio Waikiki
+const espacio = {
+	name: 'Espacio Waikiki',
+	type: 'Hotel',
+	homepage: 'https://www.espaciowaikiki.com/',
+	description: 'Welcome to a first-of-its-kind Hawaii hotel; the new pinnacle of luxury, privacy, design and world-class hospitality.',
+	petsAllowedTrueFalse: false,
+	totalRoomCount: 9,
+	priceRange: '$$$',
+	amenitiesArr: [
+		{
+			name: 'Experience',
+			url: 'https://www.espaciowaikiki.com/experience/',
+			imageUrl: 'https://s40336.pcdn.co/wp-content/uploads/2021/06/ESPACIO-master-bedroom-650x415-1.jpg'
+		},
+	],
+	roomGroupsArr: [
+		{
+			roomType: 'Penthouse Diamond Suite',
+			numberOfRooms: 1,
+		},
+		{
+			roomType: 'Oceanfront Suites',
+			numberOfRooms: 2,
+		},
+		{
+			roomType: 'Ocean View Suites',
+			numberOfRooms: '3',
+		},
+		{
+			roomType: 'Beach View Suites',
+			numberOfRooms: '3',
+		}
+	],
+	currenciesAccepted: 'USD',
+	openingHours: '8:00',
+	paymentAccepted: 'Cash and Cards',
+	availableLanguage: 'English',
+	checkInTime: '16:00',
+	checkOutTime: '11:00',
+	imageArr: [
+		{
+			caption: '',
+			url: '',
+		},
+		{
+			caption: '',
+			url: '',
+		}
+	],
+	logoUrl: 'https://www.espaciowaikiki.com/app/images/logo-primary.svg',
+	slogan: 'The Jewel of Waikiki',
+	copyrightUrl: null,
+	facebookUrl: 'https://www.facebook.com/espaciowaikiki',
+	twitterUrl: 'https://twitter.com/espaciowaikiki',
+	instagramUrl: 'https://www.instagram.com/espaciowaikiki/',
+	linkedinUrl: 'https://www.linkedin.com/company/espacio-waikiki/',
+	contact: {
+		phone: '1.844.672.0799',
+		email: 'espaciores@espaciowaikiki.com',
+	},
+	location: {
+		street: '2452 Kalakaua Avenue',
+		city: 'Honolulu',
+		state: 'HI',
+		zip: '96815',
+		country: 'USA',
+	},
+	lowestPrice: 4200,
+	highestPrice: 12000,
+	rating: {
+		value: '4.5',
+		count: '44',
+	},
+	page: {
+		name: 'Home',
+		url: 'https://www.espaciowaikiki.com/',
+		video: {
+			name: 'Luxury Hotel in Honolulu',
+			description: 'ESPACIO The Jewel of Waikiki, named Condé Nast Travelers’ #1 hotel in Hawaii, redefines the luxury hotel experience. It is the only hotel in Hawaii to be awarded Forbes Travel Guide’s Five-Star Honor for both the hotel and Mugen restaurant.',
+			thumbnailUrl: null,
+			contentUrl: '',
+			embedUrl: '',
+			uploadDateISO: null,
+			duration: {
+				min: '',
+				sec: '',
 			}
-		};
+		},
+		inquireableItem: {
+			type: 'Hotel Room',
+			name: 'Room Name',
+		}
+	},
+	roomsArr: [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '', // string
+			url: '', // url
+			bookUrl: '', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '', // number
+			maxPrice: '', // number
+			description: '', // string
+			defaultPrice: '', // number
+			maxOccupancy: '', // number
+			checkInTime: '', // datetime
+			checkOutTime: '', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: '', // string
+					url: '', // url
+				},
+				{
+					caption: '', // string
+					url: '', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+		}
+	],
+};
