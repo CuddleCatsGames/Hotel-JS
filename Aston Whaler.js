@@ -486,6 +486,181 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
+		 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '2-Bedroom 2-Bath Garden View Suite', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: true, // boolean
+			minPrice: '600', // number
+			maxPrice: '1000', // number
+			description: 'Spend your downtime in our spacious two-bedroom suites with tropical garden views. Suite features two bathrooms, a living area, fully equipped kitchen, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '2-Bedroom 2-Bath Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-2-BA-Garden-Living-Area-2-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom 2-Bath Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-2-BA-Garden-Living-Area-1-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+					 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '2-Bedroom 2-Bath Ocean View Suite', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '600', // number
+			maxPrice: '1000', // number
+			description: 'With gorgeous views of the Pacific, this spacious two-bedroom suite is the perfect place to unwind. Suite features two bathrooms, a living area, a fully equipped kitchen, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: '', // boolean
+			images: [
+				{
+					caption: '2-Bedroom 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Living-Area-873-004-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Balcony2-873-018-1-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+					 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '2-Bedroom Ocean View Premium', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '600', // number
+			maxPrice: '1000', // number
+			description: 'This premium suite offers maximum space plus beautiful ocean views. Suite features updated furnishings, a fully equipped kitchen with modern appliances, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: '2-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Premium-Living-Area-1173-005-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-Premium-Kitchen-359-022-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+					 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '2-Bedroom Oceanfront', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '650', // number
+			maxPrice: '1000', // number
+			description: 'Indulge with picturesque oceanfront views of the Pacific and a large wraparound balcony to soak it all up. Suite features two bedrooms, two bathrooms, a living area, and a fully equipped kitchen. ', // string
+			defaultPrice: '650', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: '2-Bedroom Oceanfront', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-Oceanfront-Living-Area-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Oceanfront-Kitchen-651-002-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
+					 [
+		{
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: '2-Bedroom Oceanfront Premium', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: '', // boolean
+			minPrice: '650', // number
+			maxPrice: '1000', // number
+			description: 'What dream vacations are made of, this is the best suite in the house. Enjoy serene oceanfront views of the Pacific Ocean and a large private wraparound balcony. Suite features two bedrooms, two bathrooms, updated furnishings, a living area, and fully equipped designer kitchen.', // string
+			defaultPrice: '650', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '', // number
+			bedType: '', // string
+			smokingBoolean: true, // boolean
+			images: [
+				{
+					caption: '2-Bedroom Oceanfront Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Living-Area-452-006-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Kitchen-452-009-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: '', // string
+					url: '', // url
+					imageUrl: '' // url
+				},
+			],
 		}
 	],
 };
