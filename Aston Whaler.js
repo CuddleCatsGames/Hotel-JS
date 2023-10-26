@@ -1,5 +1,4 @@
-// Aston Whaler
-const astonWhaler = {
+{
 	name: 'Aston Whaler',
 	type: 'Resort',
 	homepage: 'https://www.astonwhaler.com/',
@@ -51,17 +50,29 @@ const astonWhaler = {
 	checkOutTime: '11:00',
 	imageArr: [
 		{
-			caption: '',
-			url: '',
+			caption: 'The Spirit of Aloha',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Living-Area-452-006-scaled.jpg',
 		},
 		{
-			caption: '',
-			url: '',
-		}
+			caption: 'Your Home Away From Home',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-lobby-2560x935-1.jpg',
+		},
+		{
+			caption: 'Select Your Condo',
+			url: 'http://www.astonwhaler.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-exterior-aerial-2560x1440_rc-1.jpg',
+		},
+		{
+			caption: 'Elevate Your Experience',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/home-fullbleed-1.jpg',
+		},
+		{
+			caption: 'Camera Ready',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-firetable-008-scaled.jpg',
+		},
 	],
 	logoUrl: 'https://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-logo-blue.png',
 	slogan: 'A Tranquil Oasis on Kaanapali Beach',
-	copyrightUrl: null,
+	copyrightUrl: 'https://www.aquaaston.com/about-us/terms-of-use',
 	facebookUrl: 'https://www.facebook.com/WhalerKaanapali',
 	twitterUrl: 'https://twitter.com/aquaaston',
 	instagramUrl: 'https://www.instagram.com/aquaaston',
@@ -80,8 +91,8 @@ const astonWhaler = {
 	lowestPrice: 100,
 	highestPrice: 1500,
 	rating: {
-		value: '4.6',
-		count: '848',
+		value: 4.6,
+		count: 848,
 	},
 	page: {
 		name: 'Home',
@@ -138,7 +149,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
- 		  [
+		},
 		{
 			type: 'Studios', // string -> HotelRoom or Suite
 			name: 'Studio Garden View Premium', // string
@@ -173,7 +184,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
- 		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Studio Ocean View', // string
@@ -208,7 +219,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
- 		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Studio Ocean View Premium', // string
@@ -236,7 +247,7 @@ const astonWhaler = {
 					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Ocean-View-Premium-Kitchen-718-022-scaled.jpg', // url
 				}
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Garden View Suite', // string
@@ -271,7 +282,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Ocean View Suite', // string
@@ -306,7 +317,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Ocean View Premium', // string
@@ -341,7 +352,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Ocean View Premium', // string
@@ -376,7 +387,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom / 2-Bath Ocean View Suite', // string
@@ -416,7 +427,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1 Bedroom / 2-Bath Ocean View Premium', // string
@@ -451,7 +462,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom / 2-Bath Oceanfront Suite Premium', // string
@@ -486,7 +497,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '2-Bedroom 2-Bath Garden View Suite', // string
@@ -521,7 +532,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
-					 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '2-Bedroom 2-Bath Ocean View Suite', // string
@@ -556,7 +567,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
-					 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '2-Bedroom Ocean View Premium', // string
@@ -591,7 +602,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
-					 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '2-Bedroom Oceanfront', // string
@@ -626,7 +637,7 @@ const astonWhaler = {
 					imageUrl: '' // url
 				},
 			],
-					 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '2-Bedroom Oceanfront Premium', // string
@@ -663,4 +674,4 @@ const astonWhaler = {
 			],
 		}
 	],
-};
+}
