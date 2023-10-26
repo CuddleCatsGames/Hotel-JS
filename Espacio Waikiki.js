@@ -81,6 +81,29 @@
                         "copyrightNotice": "All right reserved"
                     }
                 }
+                {
+                    "@type": "LocationFeatureSpecification",
+                    "@id": "https://www.espaciowaikiki.com/#LocationFeatureSpecification-experience",
+                    "url": "https://www.espaciowaikiki.com/experience/",
+                    "name": "Round-trip luxury airport transportation",
+                    "value": true,
+                    "image": {
+                        "@type": "ImageObject",
+                        "@id": "https://www.espaciowaikiki.com/#ImageObject-experience",
+                        "url": "https://s40336.pcdn.co/wp-content/uploads/2021/06/ESPACIO-master-bedroom-650x415-1.jpg",
+                        "name": "Experience",
+                        "contentUrl": "https://s40336.pcdn.co/wp-content/uploads/2021/06/ESPACIO-master-bedroom-650x415-1.jpg",
+                        "caption": "Experience",
+                        "license": "https://www.aquaaston.com/about-us/terms-of-use",
+                        "acquireLicensePage": "https://www.aquaaston.com/about-us/terms-of-use",
+                        "creditText": "Espacio Waikiki",
+                        "creator": {
+                            "@type": "Organization",
+                            "@id": "https://www.espaciowaikiki.com/#Hotel-espacioWaikiki"
+                        },
+                        "copyrightNotice": "All right reserved"
+                    }
+                }
             ],
             "numberOfRooms": [],
             "starRating": {
