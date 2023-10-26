@@ -1,5 +1,4 @@
-// Ilikai Hotel & Luxury Suites
-const ilikai = {
+{
 	name: 'Ilikai Hotel & Luxury Suites',
 	type: 'Hotel',
 	homepage: 'https://www.ilikaihotel.com/',
@@ -153,17 +152,29 @@ const ilikai = {
 	checkOutTime: '11:00',
 	imageArr: [
 		{
-			caption: '',
-			url: '',
+			caption: 'Iconic. Irresistible. Ilikai.',
+			url: 'https://www.ilikaihotel.com/img/single-photo-home.jpg',
 		},
 		{
-			caption: '',
-			url: '',
+			caption: 'Iconic. Irresistible. Ilikai.',
+			url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-ilikai-luxury-suites-exterior2.jpg',
 		}
+		{
+			caption: 'Iconic. Irresistible. Ilikai.',
+			url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-ilikai-luxury-suites-entrance.jpg',
+		},
+		{
+			caption: 'Iconic. Irresistible. Ilikai.',
+			url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-ilikai-luxury-suites-mountain-view.jpg',
+		}
+		{
+			caption: 'Iconic. Irresistible. Ilikai.',
+			url: 'https://www.ilikaihotel.com/img/photo-gallery/435x275-ilikai-luxury-suites-2bd-mountain-view.jpg',
+		},
 	],
 	logoUrl: 'https://www.ilikaihotel.com/img/logo.png',
 	slogan: 'Iconic. Irresistible. Ilikai.',
-	copyrightUrl: 'https://www.example.com/copyright',
+	copyrightUrl: 'https://www.aquaaston.com/about-us/terms-of-use',
 	facebookUrl: 'https://www.facebook.com/ilikaihotel',
 	twitterUrl: 'https://twitter.com/aquaaston',
 	instagramUrl: 'https://www.instagram.com/ilikaihotel/',
@@ -182,8 +193,8 @@ const ilikai = {
 	lowestPrice: 200,
 	highestPrice: 1500,
 	rating: {
-		value: '4.3',
-		count: '3027',
+		value: 4.3,
+		count: 3027,
 	},
 	page: {
 		name: 'Home',
@@ -240,7 +251,7 @@ const ilikai = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Luxury Junior Suite City View', // string
@@ -271,7 +282,7 @@ const ilikai = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Luxury Junior Suite Courtyard View', // string
@@ -302,7 +313,7 @@ const ilikai = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Luxury Junior Suite Poolside View', // string
@@ -333,7 +344,7 @@ const ilikai = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Luxury Junior Suite Partial Ocean View', // string
@@ -364,7 +375,7 @@ const ilikai = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Luxury Junior Suite Ocean View', // string
@@ -395,7 +406,7 @@ const ilikai = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Luxury 1-Bedroom Boulevard View Suite', // string
@@ -426,7 +437,7 @@ const ilikai = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Luxury 1-Bedroom Ocean View Suite', // string
@@ -457,7 +468,7 @@ const ilikai = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Luxury 2-Bedroom City View Suite', // string
@@ -488,7 +499,7 @@ const ilikai = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Luxury 2-Bedroom Ocean View', // string
@@ -519,7 +530,7 @@ const ilikai = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Luxury 2-Bedroom Oceanfront', // string
@@ -551,4 +562,4 @@ const ilikai = {
 			],
 		}
 	],
-};
+}
