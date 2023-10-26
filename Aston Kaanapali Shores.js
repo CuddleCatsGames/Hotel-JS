@@ -359,9 +359,89 @@
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Alarm Clock/Radio', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
+				},
+				{
+					name: 'All Rooms Are Non-Smoking', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Cable TV', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Central Air-Conditioning', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Children 17 and Under Stay Free in Existing Beds', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffee and Tea Packets Replenished Daily', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Crib Available on Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Safe Fits Laptop', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Wireless Internet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Iron & Ironing Board', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Phone', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'DVD player', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Rollaway/Air Mattress', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower/Bath Tub', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower Chair On Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: 'TDD Equipment On Request' // url
 				},
 			],
 		},
@@ -390,9 +470,89 @@
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Alarm Clock/Radio', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
+				},
+				{
+					name: 'All Rooms Are Non-Smoking', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Cable TV', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Central Air-Conditioning', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Children 17 and Under Stay Free in Existing Beds', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffee and Tea Packets Replenished Daily', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Crib Available on Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Safe Fits Laptop', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Wireless Internet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Iron & Ironing Board', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Phone', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'DVD player', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Rollaway/Air Mattress', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower/Bath Tub', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower Chair On Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: 'TDD Equipment On Request' // url
 				},
 			],
 		},
@@ -421,9 +581,89 @@
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Alarm Clock/Radio', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
+				},
+				{
+					name: 'All Rooms Are Non-Smoking', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Cable TV', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Central Air-Conditioning', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Children 17 and Under Stay Free in Existing Beds', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffee and Tea Packets Replenished Daily', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Crib Available on Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Safe Fits Laptop', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Wireless Internet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Iron & Ironing Board', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Phone', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'DVD player', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Rollaway/Air Mattress', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower/Bath Tub', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower Chair On Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: 'TDD Equipment On Request' // url
 				},
 			],
 		},
@@ -452,9 +692,89 @@
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Alarm Clock/Radio', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
+				},
+				{
+					name: 'All Rooms Are Non-Smoking', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Cable TV', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Central Air-Conditioning', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Children 17 and Under Stay Free in Existing Beds', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffee and Tea Packets Replenished Daily', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Crib Available on Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Safe Fits Laptop', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Wireless Internet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Iron & Ironing Board', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Phone', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'DVD player', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Rollaway/Air Mattress', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower/Bath Tub', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower Chair On Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: 'TDD Equipment On Request' // url
 				},
 			],
 		},
@@ -483,10 +803,90 @@
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Alarm Clock/Radio', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
-				}
+				},
+				{
+					name: 'All Rooms Are Non-Smoking', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Cable TV', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Central Air-Conditioning', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Children 17 and Under Stay Free in Existing Beds', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffee and Tea Packets Replenished Daily', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Crib Available on Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Safe Fits Laptop', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Wireless Internet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Iron & Ironing Board', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Phone', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'DVD player', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Rollaway/Air Mattress', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower/Bath Tub', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower Chair On Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: 'TDD Equipment On Request' // url
+				},
 			],
 		},
 		{
@@ -514,9 +914,89 @@
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Alarm Clock/Radio', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
+				},
+				{
+					name: 'All Rooms Are Non-Smoking', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Cable TV', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Central Air-Conditioning', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Children 17 and Under Stay Free in Existing Beds', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffee and Tea Packets Replenished Daily', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Crib Available on Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Safe Fits Laptop', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Wireless Internet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Iron & Ironing Board', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Phone', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'DVD player', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Rollaway/Air Mattress', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower/Bath Tub', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower Chair On Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: 'TDD Equipment On Request' // url
 				},
 			],
 		},
@@ -545,9 +1025,89 @@
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Alarm Clock/Radio', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
+				},
+				{
+					name: 'All Rooms Are Non-Smoking', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Cable TV', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Central Air-Conditioning', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Children 17 and Under Stay Free in Existing Beds', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffee and Tea Packets Replenished Daily', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Crib Available on Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Safe Fits Laptop', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Wireless Internet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Iron & Ironing Board', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Phone', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'DVD player', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Rollaway/Air Mattress', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower/Bath Tub', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower Chair On Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: 'TDD Equipment On Request' // url
 				},
 			],
 		},
@@ -576,9 +1136,89 @@
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Alarm Clock/Radio', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
+				},
+				{
+					name: 'All Rooms Are Non-Smoking', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Cable TV', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Central Air-Conditioning', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Children 17 and Under Stay Free in Existing Beds', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffee and Tea Packets Replenished Daily', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Crib Available on Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Safe Fits Laptop', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Wireless Internet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Iron & Ironing Board', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Phone', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'DVD player', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Rollaway/Air Mattress', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower/Bath Tub', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower Chair On Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: 'TDD Equipment On Request' // url
 				},
 			],
 		},
@@ -607,9 +1247,89 @@
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Alarm Clock/Radio', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
+				},
+				{
+					name: 'All Rooms Are Non-Smoking', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Cable TV', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Central Air-Conditioning', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Children 17 and Under Stay Free in Existing Beds', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffee and Tea Packets Replenished Daily', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Crib Available on Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Safe Fits Laptop', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Wireless Internet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Iron & Ironing Board', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Phone', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'DVD player', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Rollaway/Air Mattress', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower/Bath Tub', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower Chair On Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: 'TDD Equipment On Request' // url
 				},
 			],
 		}
