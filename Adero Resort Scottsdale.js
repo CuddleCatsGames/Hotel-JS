@@ -1,5 +1,4 @@
-// Adero Resort Scottsdale
-const adero = {
+{
 	name: 'Adero Resort Scottsdale',
 	type: 'Resort',
 	homepage: 'https://www.aderoscottsdale.com/',
@@ -66,7 +65,7 @@ const adero = {
 		{
 			caption: 'Extraordinary Experiences',
 			url: 'https://www.aderoscottsdale.com/resourcefiles/experiences-images/meetings.jpg',
-		}
+		},
 		{
 			caption: 'Dining Elevated',
 			url: 'https://www.aderoscottsdale.com/resourcefiles/home-cuisines-images/cielo-lobby-patio.jpg',
@@ -74,7 +73,7 @@ const adero = {
 		{
 			caption: 'Adero Scottsdale Resort',
 			url: 'https://www.aderoscottsdale.com/resourcefiles/welcome-images/adero-entrance.jpg',
-		}
+		},
 		{
 			caption: 'Resort Features',
 			url: 'https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823',
@@ -82,7 +81,7 @@ const adero = {
 	],
 	logoUrl: 'https://www.aderoscottsdale.com/resourcefiles/otherimages/adero-an-autograph-collection-hotel.svg',
 	slogan: 'ABOVE THE DESERT, BENEATH THE STARS',
-	copyrightUrl: null,
+	copyrightUrl: 'https://www.aderoscottsdale.com/terms-of-use',
 	facebookUrl: 'https://www.facebook.com/aderoscottsdale/',
 	twitterUrl: 'https://twitter.com/ADEROscottsdale',
 	instagramUrl: 'https://www.instagram.com/aderoscottsdale/?hl=en',
@@ -193,8 +192,8 @@ const adero = {
 					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
-			],
-		[
+			]
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Standard w/ Peloton Bike, Guest room, 2 Queen(s)', // string
@@ -263,7 +262,8 @@ const adero = {
 					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
-			],
+			]
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Mountain View, Guest room, 1 King', // string
@@ -312,8 +312,8 @@ const adero = {
 					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
-			],
-		[
+			]
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Mountain View, Guest room, 2 Queen(s)', // string
@@ -352,8 +352,8 @@ const adero = {
 					url: '', // url
 					imageUrl: '' // url
 				},
-			],
-		[
+			]
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Sky View, Guest room, 1 King, Top floor', // string
@@ -403,7 +403,7 @@ const adero = {
 					imageUrl: '' // url
 				},
 			],
-		[
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Sky View, Guest room, 2 Queen(s), Top floor', // string
@@ -452,8 +452,8 @@ const adero = {
 					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
-			],
-		[
+			]
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Cliffside, Larger Guest room, 1 King, Fireplace', // string
@@ -517,7 +517,8 @@ const adero = {
 					url: 'https://www.aderoscottsdale.com/amenities', // url
 					imageUrl: '' // url
 				},
-		[
+			]
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Cliffside, Larger Guest room, 2 Queen(s), Fireplace', // string
@@ -532,7 +533,7 @@ const adero = {
 			maxOccupancy: '4', // number
 			checkInTime: '16:00', // datetime
 			checkOutTime: '11:00', // datetime
-			bedCount: 2'', // number
+			bedCount: 2, // number
 			bedType: 'Queen', // string
 			smokingBoolean: false, // boolean
 			images: [
@@ -587,7 +588,7 @@ const adero = {
 					imageUrl: '' // url
 				},
 			],
-		[
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Desert Spa Suite, 1 Bedroom Junior Suite, 1 King, Mountain view', // string
@@ -662,7 +663,7 @@ const adero = {
 					imageUrl: '' // url
 				},
 			],
-		[
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Dark Sky Corner Suite, 1 Bedroom Suite, 1 King, Mountain view, Corner room', // string
@@ -732,7 +733,7 @@ const adero = {
 					imageUrl: '' // url
 				},
 			],
-		[
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Terrace Suite, 1 Bedroom Suite, 1 King, Mountain view, Balcony', // string
@@ -802,7 +803,7 @@ const adero = {
 					imageUrl: '' // url
 				},
 			],
-		[
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Celestial Suite, 1 Bedroom Suite, 1 King, Mountain view', // string
@@ -878,5 +879,5 @@ const adero = {
 				},
 			],
 		}
-	],
-};
+	]
+}
