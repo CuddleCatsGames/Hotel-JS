@@ -1,5 +1,4 @@
-// Aston Kaanapali Shores
-const astonKaanapali = {
+{
 	name: 'Aston Kaanapali Shores',
 	type: 'Resort',
 	homepage: 'https://www.astonkaanapalishoresresort.com/',
@@ -165,7 +164,7 @@ const astonKaanapali = {
 		{
 			caption: 'Holoholo Kamaaina Deal',
 			url: 'https://www.astonkaanapalishoresresort.com/img/636x343-kama-homepage.jpg',
-		}
+		},
 		{
 			caption: 'Great Rates for Guests 50+',
 			url: 'https://www.astonkaanapalishoresresort.com/img/636x343-Homepage-A-Deal-For-the-Ages.jpg',
@@ -173,7 +172,7 @@ const astonKaanapali = {
 		{
 			caption: 'Hawaii Hospitality and Culture',
 			url: 'https://www.astonkaanapalishoresresort.com/img/featured-photo-home.jpg',
-		}
+		},
 		{
 			caption: 'Complimentary Daily Breakfast',
 			url: 'https://www.astonkaanapalishoresresort.com/img/aks-breakfast-435x275.jpg',
@@ -181,7 +180,7 @@ const astonKaanapali = {
 	],
 	logoUrl: 'https://www.astonkaanapalishoresresort.com/img/AKS-logo.png',
 	slogan: 'An Unforgettable Experience',
-	copyrightUrl: null,
+	copyrightUrl: 'https://www.astonkaanapalishoresresort.com/privacy-policy/#otnotice-section-847b5197-8128-429c-8dbe-82c7f44852be',
 	facebookUrl: 'https://www.facebook.com/MauiKaanapaliVillas/',
 	twitterUrl: 'https://twitter.com/aquaaston',
 	instagramUrl: 'https://www.instagram.com/aquaaston/',
@@ -200,8 +199,8 @@ const astonKaanapali = {
 	lowestPrice: 200,
 	highestPrice: 1200,
 	rating: {
-		value: '4.3',
-		count: '2,333',
+		value: 4.3,
+		count: 2333,
 	},
 	page: {
 		name: 'Homepage',
@@ -249,12 +248,92 @@ const astonKaanapali = {
 			],
 			roomAmenitiesArr: [
 				{
-					name: '', // string
-					url: '', // url
+					name: 'Alarm Clock/Radio', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
 					imageUrl: '' // url
 				},
+				{
+					name: 'All Rooms Are Non-Smoking', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Cable TV', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Central Air-Conditioning', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Children 17 and Under Stay Free in Existing Beds', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffee and Tea Packets Replenished Daily', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Crib Available on Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Safe Fits Laptop', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-Room Wireless Internet', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Iron & Ironing Board', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Phone', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'DVD player', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Rollaway/Air Mattress', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower/Bath Tub', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Shower Chair On Request', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: '', // string
+					url: 'https://www.astonkaanapalishoresresort.com/resort-overview/rooms-suites/', // url
+					imageUrl: 'TDD Equipment On Request' // url
+				},
 			],
-		  [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Hotel Room', // string
@@ -285,7 +364,7 @@ const astonKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: 'Junior Suite with Kitchen', // string
@@ -316,7 +395,7 @@ const astonKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: '1-Bedroom 1-Bath Garden View Suite', // string
@@ -326,7 +405,7 @@ const astonKaanapali = {
 			petsAllowedTrueOrFalse: '', // boolean
 			minPrice: '300', // number
 			maxPrice: '1000', // number
-			description: 'Overlooking the resort's tropical gardens, this comfortable suite features all the conveniences of home, like a living/dining area, separate bedroom, fully equipped kitchen, washer/dryer, and private lanai with garden views.', // string
+			description: 'Overlooking the tropical gardens, this comfortable suite features all the conveniences of home, like a living/dining area, separate bedroom, fully equipped kitchen, washer/dryer, and private lanai with garden views.', // string
 			defaultPrice: '300', // number
 			maxOccupancy: '4', // number
 			checkInTime: '16:00', // datetime
@@ -347,7 +426,7 @@ const astonKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: '1-Bedroom 1-Bath Ocean View Suite', // string
@@ -378,7 +457,7 @@ const astonKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'Suite', // string -> HotelRoom or Suite
 			name: '2-Bedroom 2-Bath Garden View Suite', // string
@@ -407,8 +486,9 @@ const astonKaanapali = {
 					name: '', // string
 					url: '', // url
 					imageUrl: '' // url
+				}
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '2-Bedroom 2-Bath Ocean View Suite', // string
@@ -439,7 +519,7 @@ const astonKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '2-Bedroom 2-Bath Oceanfront Suite', // string
@@ -470,7 +550,7 @@ const astonKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '2-Bedroom 2-Bath Oceanfront Aloha Suite', // string
@@ -481,7 +561,7 @@ const astonKaanapali = {
 			minPrice: '400', // number
 			maxPrice: '1000', // number
 			description: 'Our beachfront suite exudes luxury and comfort with sweeping views of the Pacific, a large private lanai, two bedrooms, separate living/dining area, a washer/dryer, and fully equipped kitchen with upgraded appliances.', // string
-			defaultPrice: 400', // number
+			defaultPrice: 400,
 			maxOccupancy: '6', // number
 			checkInTime: '16:00', // datetime
 			checkOutTime: '11:00', // datetime
@@ -501,7 +581,7 @@ const astonKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '2-Bedroom 2-Bath Penthouse Suite', // string
@@ -533,5 +613,5 @@ const astonKaanapali = {
 				},
 			],
 		}
-	],
-};
+	]
+}
