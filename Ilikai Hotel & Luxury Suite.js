@@ -246,7 +246,102 @@
 			],
 			roomAmenitiesArr: [
 				{
-					name: 'Standard In-Room Amenities', // string
+					name: '40-in LCD TV', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Air Conditioning', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'AM / FM Alarm Clock Radio', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Blackout Drapes', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'DVD movies and rentals', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffeemaker', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Full-sized refrigerator', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Coffee & Tea packets replenished upon request', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Daily local newspaper delivered to room', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Enhanced cleaning protocols Next Level Clean', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Essential Items Service', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Full Kitchen w/4-burner Stovetop, Microwave and Toaster', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Iron / Ironing Board', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Local & Toll-Free Calls', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Telephone w/Voicemail', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'Wake up Call Service', // string
+					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
+					imageUrl: '' // url
+				},
+				{
+					name: 'WiFi Access', // string
 					url: 'https://www.ilikaihotel.com/property-overview/suites/', // url
 					imageUrl: '' // url
 				},
