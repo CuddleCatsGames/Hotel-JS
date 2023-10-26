@@ -125,12 +125,24 @@
 	checkOutTime: '11:00',
 	imageArr: [
 		{
-			caption: '',
-			url: '',
+			caption: 'Private Chef Experience',
+			url: 'https://s40336.pcdn.co/wp-content/uploads/2022/07/ESPACIO-private-chef-fish-790x570-1.jpg',
 		},
 		{
-			caption: '',
-			url: '',
+			caption: 'About ESPACIO',
+			url: 'https://s40336.pcdn.co/wp-content/uploads/2021/06/ESPACIO-master-bedroom-650x415-1.jpg',
+		}
+		{
+			caption: 'About ESPACIO',
+			url: 'https://www.espaciowaikiki.com/app/images/about-img-3.jpg',
+		}
+		{
+			caption: 'About ESPACIO',
+			url: 'https://www.espaciowaikiki.com/app/images/about-img-2.jpg',
+		}
+		{
+			caption: 'Curated Guest Services',
+			url: 'https://www.espaciowaikiki.com/app/images/experience-slider-experience-espacio.jpg',
 		}
 	],
 	logoUrl: 'https://www.espaciowaikiki.com/app/images/logo-primary.svg',
