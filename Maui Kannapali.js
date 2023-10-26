@@ -1,5 +1,4 @@
-// Maui Kaanapali Villas
-const mauiKaanapali = {
+{
 	name: 'Maui Kaanapali Villas',
 	type: 'Resort',
 	homepage: 'https://www.astonmauikaanapalivillas.com/',
@@ -140,7 +139,7 @@ const mauiKaanapali = {
 	],
 	logoUrl: 'https://s40340.pcdn.co/wp-content/uploads/2016/08/MKV-logo_02.png',
 	slogan: 'A modern resort with old Hawaii at heart',
-	copyrightUrl: '',
+	copyrightUrl: 'https://www.aquaaston.com/about-us/terms-of-use',
 	facebookUrl: 'https://www.facebook.com/MauiKaanapaliVillas/',
 	twitterUrl: 'https://twitter.com/astonhotels',
 	instagramUrl: 'https://www.instagram.com/mauikaanapalivillas/?hl=en',
@@ -159,8 +158,8 @@ const mauiKaanapali = {
 	lowestPrice: 296,
 	highestPrice: 510,
 	rating: {
-		value: '4.4',
-		count: '1,206',
+		value: 4.4,
+		count: 1206,
 	},
 	page: {
 		name: 'Home',
@@ -213,7 +212,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Hotel Room Deluxe', // string
@@ -244,7 +243,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Hotel Room Premium', // string
@@ -275,7 +274,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Studio Garden View', // string
@@ -306,7 +305,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Studio Garden View Deluxe', // string
@@ -337,7 +336,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Studio Garden View Premium', // string
@@ -368,7 +367,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Garden View', // string
@@ -399,13 +398,13 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Garden View Deluxe', // string
 			url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
 			bookUrl: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
-			tourUrl: ', // url
+			tourUrl: '', // url
 			petsAllowedTrueOrFalse: '', // boolean
 			minPrice: '350', // number
 			maxPrice: '800', // number
@@ -430,7 +429,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Garden View Premium', // string
@@ -461,7 +460,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Studio Ocean View', // string
@@ -492,7 +491,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Studio Ocean View Premium', // string
@@ -523,7 +522,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Studio Oceanside', // string
@@ -554,7 +553,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: 'Studio Oceanside Premium', // string
@@ -585,7 +584,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Ocean View', // string
@@ -615,8 +614,8 @@ const mauiKaanapali = {
 					url: '', // url
 					imageUrl: '' // url
 				},
-			],
-		  [
+			]
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Ocean View Premium', // string
@@ -647,7 +646,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		   [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Oceanside', // string
@@ -678,7 +677,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		  [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Oceanside Premium', // string
@@ -709,7 +708,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '2-Bedroom Suite Deluxe', // string
@@ -740,7 +739,7 @@ const mauiKaanapali = {
 					imageUrl: '' // url
 				},
 			],
-		 [
+		},
 		{
 			type: 'HotelRoom', // string -> HotelRoom or Suite
 			name: '1-Bedroom Oceanfront Premium', // string
@@ -773,4 +772,4 @@ const mauiKaanapali = {
 			],
 		}
 	],
-};
+}
