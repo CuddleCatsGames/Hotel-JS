@@ -289,6 +289,11 @@
                     "imageUrl": ""
                 },
                 {
+                    "name": "Virtual Room Toor",
+                    "url": "https://www.espaciowaikiki.com/take-a-virtual-tour/",
+                    "imageUrl": ""
+                },
+                {
                     "name": "Dry sauna",
                     "url": "https://www.espaciowaikiki.com/luxury-suites/penthouse-diamond-suite",
                     "imageUrl": ""
@@ -395,6 +400,11 @@
                     "imageUrl": ""
                 },
                 {
+                    "name": "Virtual Room Toor",
+                    "url": "https://www.espaciowaikiki.com/take-a-virtual-tour/",
+                    "imageUrl": ""
+                },
+                {
                     "name": "Dry sauna",
                     "url": "https://www.espaciowaikiki.com/luxury-suites/penthouse-diamond-suite",
                     "imageUrl": ""
@@ -500,6 +510,11 @@
                     "imageUrl": ""
                 },
                 {
+                    "name": "Virtual Room Toor",
+                    "url": "https://www.espaciowaikiki.com/take-a-virtual-tour/",
+                    "imageUrl": ""
+                },
+                {
                     "name": "Dry sauna",
                     "url": "https://www.espaciowaikiki.com/luxury-suites/penthouse-diamond-suite",
                     "imageUrl": ""
@@ -605,6 +620,11 @@
                     "imageUrl": ""
                 },
                 {
+                    "name": "Virtual Room Toor",
+                    "url": "https://www.espaciowaikiki.com/take-a-virtual-tour/",
+                    "imageUrl": ""
+                },
+                {
                     "name": "Dry sauna",
                     "url": "https://www.espaciowaikiki.com/luxury-suites/penthouse-diamond-suite",
                     "imageUrl": ""
@@ -710,6 +730,11 @@
                     "imageUrl": ""
                 },
                 {
+                    "name": "Virtual Room Toor",
+                    "url": "https://www.espaciowaikiki.com/take-a-virtual-tour/",
+                    "imageUrl": ""
+                },
+                {
                     "name": "Dry sauna",
                     "url": "https://www.espaciowaikiki.com/luxury-suites/penthouse-diamond-suite",
                     "imageUrl": ""
@@ -815,6 +840,11 @@
             "imageUrl": ""
         },
         {
+           "name": "Virtual Room Toor",
+           "url": "https://www.espaciowaikiki.com/take-a-virtual-tour/",
+           "imageUrl": ""
+         },	    
+        {
             "name": "Dry sauna",
             "url": "https://www.espaciowaikiki.com/luxury-suites/luxury-suite-premium-view-three-bedrooms/",
             "imageUrl": ""
@@ -918,6 +948,11 @@
             "name": "Deep soaking tub and separate glassed shower",
             "url": "https://www.espaciowaikiki.com/luxury-suites/luxury-suite-premium-view-three-bedrooms/",
             "imageUrl": ""
+        },
+       {
+             "name": "Virtual Room Toor",
+             "url": "https://www.espaciowaikiki.com/take-a-virtual-tour/",
+             "imageUrl": ""
         },
         {
             "name": "Dry sauna",
@@ -1024,6 +1059,11 @@
             "url": "https://www.espaciowaikiki.com/luxury-suites/luxury-suite-three-bedroom/",
             "imageUrl": ""
         },
+       {
+             "name": "Virtual Room Toor",
+             "url": "https://www.espaciowaikiki.com/take-a-virtual-tour/",
+             "imageUrl": ""
+        },
         {
             "name": "Dry sauna",
             "url": "https://www.espaciowaikiki.com/luxury-suites/luxury-suite-three-bedroom/",
@@ -1128,6 +1168,11 @@
             "name": "Deep soaking tub and separate glassed shower",
             "url": "https://www.espaciowaikiki.com/luxury-suites/luxury-suite-three-bedroom-accessible/",
             "imageUrl": ""
+        },
+       {
+             "name": "Virtual Room Toor",
+             "url": "https://www.espaciowaikiki.com/take-a-virtual-tour/",
+             "imageUrl": ""
         },
         {
             "name": "Dry sauna",
