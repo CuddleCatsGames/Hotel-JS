@@ -50,10 +50,8 @@
          "roomType":"Celestial Suites",
          "numberOfRooms":null
       }
-   ]
-}
-{   
-"currenciesAccepted":"USD",
+   ], 
+   "currenciesAccepted":"USD",
    "openingHours":"8:00",
    "paymentAccepted":"Cash and Cards",
    "availableLanguage":"English",
@@ -81,7 +79,6 @@
          "url":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
       }
    ],
-{
    "logoUrl":"https://www.aderoscottsdale.com/resourcefiles/otherimages/adero-an-autograph-collection-hotel.svg",
    "slogan":"ABOVE THE DESERT, BENEATH THE STARS",
    "copyrightUrl":"https://www.aderoscottsdale.com/terms-of-use",
@@ -125,9 +122,9 @@
          "type":"Hotel Room",
          "name":"Room Name"
       }
-   }
-}
-{
+   },
+   "roomsArr": [
+   {
     "type": "HotelRoom",
     "name": "Standard, Guest room, 1 King",
     "url": "https://www.aderoscottsdale.com/rooms-suites",
@@ -196,7 +193,7 @@
             "imageUrl": ""
         }
     ]
-}
+},
 {
     "type": "HotelRoom",
     "name": "Standard w/ Peloton Bike, Guest room, 2 Queen(s)",
@@ -266,7 +263,7 @@
             "imageUrl": ""
         }
     ]
-}
+},
 {
     "type": "HotelRoom",
     "name": "Mountain View, Guest room, 1 King",
@@ -321,7 +318,7 @@
             "imageUrl": ""
         }
     ]
-}
+},
 {
     "type": "HotelRoom",
     "name": "Mountain View, Guest room, 2 Queen(s)",
@@ -391,7 +388,7 @@
             "imageUrl": ""
         }
     ]
-}
+},
 {
     "type": "HotelRoom",
     "name": "Sky View, Guest room, 1 King, Top floor",
@@ -441,7 +438,7 @@
             "imageUrl": ""
         }
     ]
-}
+},
 {
     "type": "HotelRoom",
     "name": "Sky View, Guest room, 2 Queen(s), Top floor",
@@ -491,7 +488,7 @@
             "imageUrl": ""
         }
     ]
-}
+},
 {
     "type": "HotelRoom",
     "name": "Cliffside, Larger Guest room, 1 King, Fireplace",
@@ -556,7 +553,7 @@
             "imageUrl": ""
         }
     ]
-}
+},
 {
     "type": "HotelRoom",
     "name": "Cliffside, Larger Guest room, 2 Queen(s), Fireplace",
@@ -621,7 +618,7 @@
             "imageUrl": ""
         }
     ]
-}
+},
 {
     "type": "Suite",
     "name": "Desert Spa Suite, 1 Bedroom Junior Suite, 1 King, Mountain view",
@@ -696,7 +693,7 @@
             "imageUrl": ""
         }
     ]
-}
+},
 {
     "type": "Suite",
     "name": "Dark Sky Corner Suite, 1 Bedroom Suite, 1 King, Mountain view, Corner room",
@@ -766,7 +763,7 @@
             "imageUrl": ""
         }
     ]
-}
+},
 {
     "type": "Suite",
     "name": "Terrace Suite, 1 Bedroom Suite, 1 King, Mountain view, Balcony",
@@ -836,7 +833,7 @@
             "imageUrl": ""
         }
     ]
-}
+},
 {
     "type": "Suite",
     "name": "Celestial Suite, 1 Bedroom Suite, 1 King, Mountain view",
@@ -909,8 +906,6 @@
             "name": "This room is non-smoking",
             "url": "https://www.aderoscottsdale.com/amenities",
             "imageUrl": ""
-        },
-    ],
-},
-],
-}
+        }
+    ]
+}]}
