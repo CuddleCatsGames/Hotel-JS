@@ -11,6 +11,121 @@
          "name":"Amenities",
          "url":"https://www.aderoscottsdale.com/amenities",
          "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"24-hour Front Desks",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Wake-up Calls",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Outdoor Hot Tub",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Affiliated Golf Course",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Non-smoking Property",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"4 EV Charging Stations",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Amenities",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Multilingual Staff",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Safe Deposit Box",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Poolside Bar",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Fitness Center",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Valet Parking for a Fee",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"In-room dining",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Activity Desk",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Breakfast Available",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Spa Services",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Free Wi-Fi",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Pet-friendly",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Concierge Desk",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Outdoor Pools",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Tennis & Pickleball Courts",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Dry Cleaning Service",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
+      },
+      {
+         "name":"Bell Service and Porterage",
+         "url":"https://www.aderoscottsdale.com/amenities",
+         "imageUrl":"https://www.aderoscottsdale.com/resourcefiles/mainimages/adero-sunset.jpg?version=10022023184823"
       }
    ],
    "roomGroupsArr":[
