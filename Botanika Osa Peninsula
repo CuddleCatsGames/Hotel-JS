@@ -1,10 +1,10 @@
 {
-	"name": "Aston Whaler",
+	"name": "Botanika Osa Peninsula",
 	"type": "Resort",
-	"homepage": "https://www.astonwhaler.com/",
-	"description": "Beachfront leisure at its finest, Aston at The Whaler on Kaanapali Beach offers the tropical escape that dreams are made of.",
+	"homepage": "https://botanikaresort.com/",
+	"description": "Our resort will immerse you in the natural world while delighting in premium amenities and the unparalleled service and hospitality synonymous with the Hilton brand.",
 	"petsAllowedTrueFalse": false,
-	"totalRoomCount": 463,
+	"totalRoomCount": 43,
 	"priceRange": "$$$",
 	"amenitiesArr": [
 		{
