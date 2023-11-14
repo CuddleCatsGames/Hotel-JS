@@ -182,15 +182,15 @@
 		"zip": "60702",
 		"country": "Costa Rica"
 	},
-	"lowestPrice": 100,
-	"highestPrice": 1500,
+	"lowestPrice": 215,
+	"highestPrice": 500,
 	"rating": {
-		"value": 4.6,
-		"count": 848
+		"value": 4.8,
+		"count": 108,
 	},
 	"page": {
 		"name": "Home",
-		"url": "https://www.astonwhaler.com/",
+		"url": "https://botanikaresort.com/",
 		"video": {
 			"name": null,
 			"description": null,
@@ -210,10 +210,10 @@
 	},
 	"roomsArr": [
 		{
-			"type": "Studios", 
-			"name": "Studio Garden View", 
-			"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-			"bookUrl": "https://www.astonwhaler.com/rooms/studios-rooms/", 
+			"type": "Guest Room", 
+			"name": "GUEST ROOM 2 QUEENS", 
+			"url": "https://botanikaresort.com/hotel/rooms/", 
+			"bookUrl": "https://botanikaresort.com/hotel/rooms/", 
 			"tourUrl": "", 
 			"petsAllowedTrueOrFalse": "", 
 			"minPrice": "300", 
@@ -238,64 +238,124 @@
 			],
 			"roomAmenitiesArr": [
 				{
-					"name": "Non-Smoking", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "Resort Guide", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				},
 				{
-					"name": "Full Kitchen with Microwave and Dishwasher", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "On-site Activities Center", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				},
 				{
-					"name": "In-room Safe", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "Natural Lagoon-Style Pool, Two Hot Tubs and Cabanas", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				},
 				{
-					"name": "Central Air Conditioning", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "On-site Restaurants", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				},
 				{
-					"name": "Hair Dryer", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "Valet Parking", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				},
 				{
-					"name": "Iron/Ironing Board", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "Meeting Rooms", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				},
 				{
-					"name": "Telephone with Voicemail", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "Cart & Pedestrian Paths", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				},
 				{
-					"name": "Coffee Maker", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "Orchid Garden, Hammock Garden, Forest Patio, Walking Trails", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				},
 				{
-					"name": "HD Cable TV with DVR", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "Technology Lounge", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				},
 				{
-					"name": "Laundry Facilities on every floor", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "Eco-Adventure Tours", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				},
 				{
-					"name": "WiFi Access", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "Pool Bar with Alfresco Dining", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				},
 				{
-					"name": "Private Balcony", 
-					"url": "https://www.astonwhaler.com/rooms/studios-rooms/", 
-					"imageUrl": "" 
+					"name": "In-Room Dining", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "Concierge", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "Laundry Service", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "Nature Walking Trails", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "Complimentary Hotel Transportation by Concierge to Pool Area and Clubhouse", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "Exclusive Beach Club", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "WiFi Internet Access Throughout Hotel", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "Towel Station", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "Fitness Center", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "Digital Key", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "Adjacent Crocodile Bay Marina with World-Class Sport Fishing, Spa, Yoga Deck and Shopping", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "Recreation & Event Lawns", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
+				},
+				{
+					"name": "Hotel Shuttle", 
+					"url": "https://botanikaresort.com/hotel/amenities/", 
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg" 
 				}
 			]
 		},
