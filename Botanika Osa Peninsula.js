@@ -141,11 +141,11 @@
 			"url": "https://botanikaresort.com/wp-content/uploads/2023/02/220520_Botanika_Rooms_300DPI_CP-8-medium.jpg"
 		},
 		{
-			"caption": "FEAST ON CULINARY DELIGHTS",
+			"caption": "Feast On Culinary Delights",
 			"url": "https://botanikaresort.com/wp-content/uploads/2022/07/Botanika-Tierra-Avodcado-Salmon-Toast-722x500-1.jpg"
 		},
 		{
-			"caption": "NOURISH BODY AND MIND",
+			"caption": "Nourish Body And Mind",
 			"url": "https://botanikaresort.com/wp-content/uploads/2021/12/bodyMind.jpg"
 		}
 	],
@@ -195,8 +195,8 @@
 	},
 	"roomsArr": [
 		{
-			"type": "Guest Room", 
-			"name": "GUEST ROOM 2 QUEENS", 
+			"type": "Suite", 
+			"name": "Guest Room 2 Queens", 
 			"url": "https://botanikaresort.com/hotel/rooms/", 
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/", 
 			"tourUrl": "", 
@@ -213,11 +213,11 @@
 			"smokingBoolean": false, 
 			"images": [
 				{
-					"caption": "GUEST ROOM 2 QUEENS", 
+					"caption": "Guest Room 2 Queens", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-2-queen-guest-room-1630x1054-1.jpg" 
 				},
 				{
-					"caption": "GUEST ROOM 2 QUEENS", 
+					"caption": "Guest Room 2 Queens", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-guest-room-detail-1630x1054-1.jpg" 
 				}
 			],
@@ -345,8 +345,8 @@
 			]
 		},
 		{
-			"type": "Guest Room", 
-			"name": "GUEST ROOM 1 KING", 
+			"type": "Suite", 
+			"name": "Guest Room 1 King", 
 			"url": "https://botanikaresort.com/hotel/rooms/", 
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/", 
 			"tourUrl": "", 
@@ -363,11 +363,11 @@
 			"smokingBoolean": false, 
 			"images": [
 				{
-					"caption": "GUEST ROOM 1 KING", 
+					"caption": "Guest Room 1 King", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-king-guest-room-view-1630x1054-1.jpg" 
 				},
 				{
-					"caption": "GUEST ROOM 1 KING", 
+					"caption": "Guest Room 1 King", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-king-guest-room-1630x1054-1.jpg" 
 				}
 			],
@@ -495,8 +495,8 @@
 			]
 		},
 		{
-			"type": "Guest Room", 
-			"name": "GUEST ROOM 1 KING ACCESSIBLE", 
+			"type": "Suite", 
+			"name": "Guest Room 1 King Accesible", 
 			"url": "https://botanikaresort.com/hotel/rooms/", 
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/", 
 			"tourUrl": "", 
@@ -513,11 +513,11 @@
 			"smokingBoolean": false, 
 			"images": [
 				{
-					"caption": "GUEST ROOM 1 KING", 
+					"caption": "Guest Room 1 King Accesible", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-king-guest-room-view-1630x1054-1.jpg" 
 				},
 				{
-					"caption": "GUEST ROOM 1 KING", 
+					"caption": "Guest Room 1 King Accesible", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-king-guest-room-1630x1054-1.jpg" 
 				}
 			],
@@ -645,8 +645,8 @@
 			]
 		},
 		{
-			"type": "1 Bedroom", 
-			"name": "1-BEDROOM SUITE 1 KING", 
+			"type": "Suite", 
+			"name": "1 Bedroom Suite 1 King", 
 			"url": "https://botanikaresort.com/hotel/rooms/", 
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/", 
 			"tourUrl": "", 
@@ -663,11 +663,11 @@
 			"smokingBoolean": false, 
 			"images": [
 				{
-					"caption": "1-BEDROOM SUITE 1 KING", 
+					"caption": "1 Bedroom Suite 1 King", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/09/6-Botanika_1-King-Bed-1-Bedroom-Suite_Living-Area_1630x1054.jpg" 
 				},
 				{
-					"caption": "1-BEDROOM SUITE 1 KING", 
+					"caption": "1 Bedroom Suite 1 King", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-suite-king-bed-1630x1054-1.jpg" 
 				}
 			],
@@ -795,8 +795,8 @@
 			]
 		},
 		{
-			"type": "2 Bedroom", 
-			"name": "2-BEDROOMS 1 KING and 1 QUEEN", 
+			"type": "Suite", 
+			"name": "2 Bedroom 1 King and 1 Queen", 
 			"url": "https://botanikaresort.com/hotel/rooms/", 
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/", 
 			"tourUrl": "", 
@@ -813,11 +813,11 @@
 			"smokingBoolean": false, 
 			"images": [
 				{
-					"caption": "2-BEDROOMS 1 KING and 1 QUEEN", 
+					"caption": "2 Bedroom 1 King and 1 Queen", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-king-guest-room-view-1630x1054-1.jpg" 
 				},
 				{
-					"caption": "2-BEDROOMS 1 KING and 1 QUEEN", 
+					"caption": "2 Bedroom 1 King and 1 Queen", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-king-guest-room-1630x1054-1.jpg" 
 				}
 			],
@@ -945,8 +945,8 @@
 			]
 		},
 		{
-			"type": "2 Bedroom", 
-			"name": "2-BEDROOMS 1 KING and 2 QUEENS", 
+			"type": "Suite", 
+			"name": "2 Bedroom 1 King and 2 Queens", 
 			"url": "https://botanikaresort.com/hotel/rooms/", 
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/", 
 			"tourUrl": "", 
@@ -963,11 +963,11 @@
 			"smokingBoolean": false, 
 			"images": [
 				{
-					"caption": "2-BEDROOMS 1 KING and 2 QUEEN", 
+					"caption": "2 Bedroom 1 King and 2 Queens", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-king-guest-room-view-1630x1054-1.jpg" 
 				},
 				{
-					"caption": "2-BEDROOMS 1 KING and 2 QUEEN", 
+					"caption": "2 Bedroom 1 King and 2 Queens", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-king-guest-room-1630x1054-1.jpg" 
 				}
 			],
@@ -1095,8 +1095,8 @@
 			]
 		},
 		{
-			"type": "2 Bedroom", 
-			"name": "2-BEDROOM GARDEN VILLA SUITE 2 KINGS", 
+			"type": "Villa", 
+			"name": "2 Bedroom Garden Villa Suite 2 Kings", 
 			"url": "https://botanikaresort.com/hotel/rooms/", 
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/", 
 			"tourUrl": "", 
@@ -1113,11 +1113,11 @@
 			"smokingBoolean": false, 
 			"images": [
 				{
-					"caption": "2-BEDROOM GARDEN VILLA SUITE 2 KINGS", 
+					"caption": "2 Bedroom Garden Villa Suite 2 Kings", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-garden-villa-living-area-2-1630x1054-1.jpg" 
 				},
 				{
-					"caption": "2-BEDROOM GARDEN VILLA SUITE 2 KINGS", 
+					"caption": "2 Bedroom Garden Villa Suite 2 Kings", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-garden-villa-K-1630x1054-1.jpg" 
 				}
 			],
@@ -1245,8 +1245,8 @@
 			]
 		},
 		{
-			"type": "3 Bedroom", 
-			"name": "3-BEDROOM SUITE 2 KINGS and 2 QUEENS", 
+			"type": "Suite", 
+			"name": "3 Bedroom Suite 2 Kings and 2 Queens", 
 			"url": "https://botanikaresort.com/hotel/rooms/", 
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/", 
 			"tourUrl": "", 
@@ -1263,11 +1263,11 @@
 			"smokingBoolean": false, 
 			"images": [
 				{
-					"caption": "3-BEDROOM SUITE 2 KINGS and 2 QUEENS", 
+					"caption": "3 Bedroom Suite 2 Kings and 2 Queens", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-garden-villa-living-area-2-1630x1054-1.jpg" 
 				},
 				{
-					"caption": "3-BEDROOM SUITE 2 KINGS and 2 QUEENS", 
+					"caption": "3 Bedroom Suite 2 Kings and 2 Queens", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-garden-villa-K-1630x1054-1.jpg" 
 				}
 			],
@@ -1395,8 +1395,8 @@
 			]
 		},
 		{
-			"type": "3 Bedroom", 
-			"name": "3-BEDROOM GARDEN VILLA SUITE 2 KINGS and 2 QUEENS", 
+			"type": "Villa", 
+			"name": "3 Bedroom Garden Villa 2 Kings and 2 Queens", 
 			"url": "https://botanikaresort.com/hotel/rooms/", 
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/", 
 			"tourUrl": "", 
@@ -1413,11 +1413,11 @@
 			"smokingBoolean": false, 
 			"images": [
 				{
-					"caption": "2-BEDROOM GARDEN VILLA SUITE 2 KINGS", 
+					"caption": "3 Bedroom Garden Villa 2 Kings and 2 Queens", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-garden-villa-living-area-2-1630x1054-1.jpg" 
 				},
 				{
-					"caption": "2-BEDROOM GARDEN VILLA SUITE 2 KINGS", 
+					"caption": "3 Bedroom Garden Villa 2 Kings and 2 Queens", 
 					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-garden-villa-K-1630x1054-1.jpg" 
 				}
 			],
