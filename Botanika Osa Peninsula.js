@@ -13,107 +13,92 @@
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/11/header_ecoadventures-1-scaled.jpg"
 		},
 		{
-			"name": "YOUR GATEWAY TO THE RAINFOREST",
+			"name": "Your Gateway To The Rainforest",
 			"url": "https://botanikaresort.com/experiences/eco-adventures/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/rainForest.jpg"
 		},
 		{
-			"name": "THE RAINFOREST",
+			"name": "The Rainforest",
 			"url": "https://botanikaresort.com/experiences/eco-adventures/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2022/01/sloth.jpg"
 		},
 		{
-			"name": "CANOPY ZIP LINE",
+			"name": "Canopy Zipline",
 			"url": "https://botanikaresort.com/experiences/eco-adventures/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/Grid3_Fishing.jpg"
 		},
 		{
-			"name": "SPORT FISHING",
+			"name": "Sport Fishing",
 			"url": "https://botanikaresort.com/experiences/eco-adventures/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/11/header_ecoadventures-1-scaled.jpg"
 		},
 		{
-			"name": "BIRD WATCHING",
+			"name": "Bird  Watching",
 			"url": "https://botanikaresort.com/experiences/eco-adventures/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/Grid4_Bird.jpg"
 		},
 		{
-			"name": "MONKEY TOUR",
+			"name": "Monkey Tour",
 			"url": "https://botanikaresort.com/experiences/eco-adventures/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/Grid6_Whale.jpg"
 		},
 		{
-			"name": "GOLFO DULCE EXCURSION BY BOAT",
+			"name": "Golfo Dulce Excursion By Boat",
 			"url": "https://botanikaresort.com/experiences/eco-adventures/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/11/header_ecoadventures-1-scaled.jpg"
 		},
 		{
-			"name": "MOUNTAIN BIKING",
+			"name": "Mountain Biking",
 			"url": "https://botanikaresort.com/experiences/eco-adventures/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2023/03/Botanika-bike-rack.jpg"
 		},
 		{
-			"name": "SPORTS FISHING",
+			"name": "Sport Fishing",
 			"url": "https://botanikaresort.com/experiences_sport-fishing/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/11/header_sportfishing.jpg"
 		},
 		{
-			"name": "THE RAINFOREST",
-			"url": "https://botanikaresort.com/experiences/eco-adventures/",
-			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2022/01/sloth.jpg"
-		},
-		{
-			"name": "CANOPY ZIP LINE",
-			"url": "https://botanikaresort.com/experiences/eco-adventures/",
-			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/Grid3_Fishing.jpg"
-		},
-		{
-			"name": "SPORT FISHING",
-			"url": "https://botanikaresort.com/experiences_sport-fishing/",
-			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/11/header_ecoadventures-1-scaled.jpg"
-		},
-		{
-			"name": "INSHORE FISHING",
+			"name": "Inshore Fishing",
 			"url": "https://botanikaresort.com/experiences_sport-fishing/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/Grid4_Bird.jpg"
 		},
 		{
-			"name": "OFFSHORE FISHING",
+			"name": "Offshore Fishing",
 			"url": "https://botanikaresort.com/experiences_sport-fishing/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/sportfishing_offshore.jpg"
 		},
 		{
-			"name": "CAHUI BEACH CLUB",
+			"name": "Cahui Beach Club",
 			"url": "https://botanikaresort.com/experiences/cahui-beach-club/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2023/05/Botanika-Cahui-Beach-Club-2368x1332-1.jpg"
 		},
 		{
-			"name": "SEAS THE DAY",
+			"name": "Seas The Day",
 			"url": "https://botanikaresort.com/experiences/cahui-beach-club/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2023/05/botanika-cahui-beach-club-lounges-2560x1444-1.jpg"
 		},
 		{
-			"name": "MEETINGS AND EVENTS",
+			"name": "Meetings And Events",
 			"url": "https://botanikaresort.com/experiences/meetings-and-events/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/header_meetingsandevents-scaled.jpg"
 		},
 		{
-			"name": "MEET AND GREET",
+			"name": "Meet And Greet",
 			"url": "https://botanikaresort.com/experiences/cahui-beach-club/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2022/07/Meeting-Room-1566x1054-1.jpg"
 		},
 		{
-			"name": "SALA EVENIR",
+			"name": "Sala Eveir",
 			"url": "https://botanikaresort.com/experiences/meetings-and-events/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2023/05/031323_Botanika_Sala_Evanir-scaled.jpg"
 		},
 		{
-			"name": "BECRÁ LOUNGE",
+			"name": "Becra Lounge",
 			"url": "https://botanikaresort.com/experiences/cahui-beach-club/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2023/03/botanika-becra-lounge-1566x1054-1.jpg"
 		},
 		{
-			"name": "BABÁNCA",
+			"name": "Babanca",
 			"url": "https://botanikaresort.com/experiences/meetings-and-events/",
 			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2022/07/Babanca-Wine-Bar-1626x1054-1.jpg"
 		}
@@ -144,15 +129,15 @@
 	"checkOutTime": "11:00",
 	"imageArr": [
 		{
-			"caption": "DISCOVER THE OSA PENINSULA",
+			"caption": "Discover The Osa Peninsula",
 			"url": "https://botanikaresort.com/wp-content/uploads/2021/12/discoverOsa.jpg"
 		},
 		{
-			"caption": "ALL MEALS PACKAGE",
+			"caption": "All Meals Package",
 			"url": "https://botanikaresort.com/wp-content/uploads/2022/11/Botanika-breakfast-1630x1054-1.jpg"
 		},
 		{
-			"caption": "ROMANCE PACKAGE",
+			"caption": "Romance Package",
 			"url": "https://botanikaresort.com/wp-content/uploads/2023/02/220520_Botanika_Rooms_300DPI_CP-8-medium.jpg"
 		},
 		{
