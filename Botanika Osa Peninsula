@@ -120,15 +120,19 @@
 	],
 	"roomGroupsArr": [
 		{
-			"roomType": "Studios",
+			"roomType": "Guest Room",
 			"numberOfRooms": null
 		},
 		{
-			"roomType": "1 bedroom Suites",
+			"roomType": "1 Bedroom",
 			"numberOfRooms": null
 		},
 		{
-			"roomType": "2 bedroom Suites",
+			"roomType": "2 Bedroom",
+			"numberOfRooms": null
+		},
+		{
+			"roomType": "3 Bedroom",
 			"numberOfRooms": null
 		}
 	],
@@ -140,43 +144,43 @@
 	"checkOutTime": "11:00",
 	"imageArr": [
 		{
-			"caption": "The Spirit of Aloha",
-			"url": "http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Living-Area-452-006-scaled.jpg"
+			"caption": "DISCOVER THE OSA PENINSULA",
+			"url": "https://botanikaresort.com/wp-content/uploads/2021/12/discoverOsa.jpg"
 		},
 		{
-			"caption": "Your Home Away From Home",
-			"url": "http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-lobby-2560x935-1.jpg"
+			"caption": "ALL MEALS PACKAGE",
+			"url": "https://botanikaresort.com/wp-content/uploads/2022/11/Botanika-breakfast-1630x1054-1.jpg"
 		},
 		{
-			"caption": "Select Your Condo",
-			"url": "http://www.astonwhaler.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-exterior-aerial-2560x1440_rc-1.jpg"
+			"caption": "ROMANCE PACKAGE",
+			"url": "https://botanikaresort.com/wp-content/uploads/2023/02/220520_Botanika_Rooms_300DPI_CP-8-medium.jpg"
 		},
 		{
-			"caption": "Elevate Your Experience",
-			"url": "http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/home-fullbleed-1.jpg"
+			"caption": "FEAST ON CULINARY DELIGHTS",
+			"url": "https://botanikaresort.com/wp-content/uploads/2022/07/Botanika-Tierra-Avodcado-Salmon-Toast-722x500-1.jpg"
 		},
 		{
-			"caption": "Camera Ready",
-			"url": "http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-firetable-008-scaled.jpg"
+			"caption": "NOURISH BODY AND MIND",
+			"url": "https://botanikaresort.com/wp-content/uploads/2021/12/bodyMind.jpg"
 		}
 	],
-	"logoUrl": "https://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-logo-blue.png",
-	"slogan": "A Tranquil Oasis on Kaanapali Beach",
-	"copyrightUrl": "https://www.aquaaston.com/about-us/terms-of-use",
-	"facebookUrl": "https://www.facebook.com/WhalerKaanapali",
-	"twitterUrl": "https://twitter.com/aquaaston",
-	"instagramUrl": "https://www.instagram.com/aquaaston",
+	"logoUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/Botanika-logo-sloth_tag_Hilton-white_rgb-e1639089287901.png",
+	"slogan": "Where Luxury Runs Wild",
+	"copyrightUrl": "https://www.botanikaresort.com/about-us/terms-of-use",
+	"facebookUrl": "https://www.facebook.com/Bot%C3%A1nika-Osa-Peninsula-103792942151312",
+	"twitterUrl": "https://twitter.com/BotanikaResort",
+	"instagramUrl": "https://www.instagram.com/botanika_resort",
 	"linkedinUrl": null,
 	"contact": {
-		"phone": "244-008-002",
-		"email": "info@astonhotels.com"
+		"phone": "1-833-812-0674",
+		"email": ""
 	},
 	"location": {
-		"street": "2481 Kaanapali Parkway",
-		"city": "Lahaina",
-		"state": "HI",
-		"zip": "96761",
-		"country": "USA"
+		"street": "Costado sureste del aeropuerto",
+		"city": "Puerto Jimenez",
+		"state": "",
+		"zip": "60702",
+		"country": "Costa Rica"
 	},
 	"lowestPrice": 100,
 	"highestPrice": 1500,
