@@ -216,24 +216,24 @@
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/", 
 			"tourUrl": "", 
 			"petsAllowedTrueOrFalse": "", 
-			"minPrice": "300", 
-			"maxPrice": "600", 
+			"minPrice": "233", 
+			"maxPrice": "328", 
 			"description": "Soak up the aromatic magic of tropical garden views from this comfortable studio. Unit is one large space and features a fully equipped kitchen and private balcony.", 
-			"defaultPrice": "300", 
-			"maxOccupancy": "3", 
+			"defaultPrice": "233", 
+			"maxOccupancy": "4", 
 			"checkInTime": "16:00", 
 			"checkOutTime": "11:00", 
-			"bedCount": "1", 
-			"bedType": "", 
-			"smokingBoolean": true, 
+			"bedCount": "2", 
+			"bedType": "Queen", 
+			"smokingBoolean": false, 
 			"images": [
 				{
-					"caption": "Studio Garden View", 
-					"url": "http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Garden-View-Bed-Living-Area-316-005-scaled.jpg" 
+					"caption": "GUEST ROOM 2 QUEENS", 
+					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-2-queen-guest-room-1630x1054-1.jpg" 
 				},
 				{
-					"caption": "Studio Garden View", 
-					"url": "http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Garden-View-BD-Living-Area-213-008-scaled.jpg" 
+					"caption": "GUEST ROOM 2 QUEENS, 
+					"url": "https://botanikaresort.com/wp-content/uploads/2023/06/botanika-guest-room-detail-1630x1054-1.jpg" 
 				}
 			],
 			"roomAmenitiesArr": [
