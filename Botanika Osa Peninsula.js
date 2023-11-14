@@ -502,7 +502,7 @@
 			"tourUrl": "", 
 			"petsAllowedTrueOrFalse": "", 
 			"minPrice": "214", 
-			"maxPrice": "235", 
+			"maxPrice": "2", 
 			"description": "Carefully crafted accessible guest rooms are designed for maximum comfort with a Serta Sweet Dreams king bed and a roll-in shower.", 
 			"defaultPrice": "214", 
 			"maxOccupancy": "235", 
