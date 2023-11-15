@@ -609,6 +609,91 @@ let hotel = {
 					"name": "Hotel Shuttle",
 					"url": "https://botanikaresort.com/hotel/amenities/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg"
+				},
+				{
+					"name": "Check-in 3 PM to Check-out 11 AM",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Bathrobe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Shower",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Serta Sweet Dreams bed",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Upscale bathroom amenities",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Luxury bath linens",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "High-speed Wifi internet access",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "55-inch TV",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Air conditioning",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Balcony or patio",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Coffee/tea maker",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Daily housekeeping service",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Desk",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "In-room safe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Telephone",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Kitchen",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Microwave",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				}
 			]
 		},
@@ -757,6 +842,91 @@ let hotel = {
 					"name": "Hotel Shuttle",
 					"url": "https://botanikaresort.com/hotel/amenities/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg"
+				},
+				{
+					"name": "Check-in 3 PM to Check-out 11 AM",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Bathrobe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Shower",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Serta Sweet Dreams bed",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Upscale bathroom amenities",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Luxury bath linens",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "High-speed Wifi internet access",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "55-inch TV",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Air conditioning",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Balcony or patio",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Coffee/tea maker",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Daily housekeeping service",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Desk",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "In-room safe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Telephone",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Kitchen",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Microwave",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				}
 			]
 		},
@@ -905,6 +1075,91 @@ let hotel = {
 					"name": "Hotel Shuttle",
 					"url": "https://botanikaresort.com/hotel/amenities/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg"
+				},
+				{
+					"name": "Check-in 3 PM to Check-out 11 AM",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Bathrobe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Shower",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Serta Sweet Dreams bed",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Upscale bathroom amenities",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Luxury bath linens",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "High-speed Wifi internet access",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "55-inch TV",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Air conditioning",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Balcony or patio",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Coffee/tea maker",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Daily housekeeping service",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Desk",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "In-room safe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Telephone",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Kitchen",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Microwave",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				}
 			]
 		},
@@ -1053,6 +1308,91 @@ let hotel = {
 					"name": "Hotel Shuttle",
 					"url": "https://botanikaresort.com/hotel/amenities/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg"
+				},
+				{
+					"name": "Check-in 3 PM to Check-out 11 AM",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Bathrobe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Shower",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Serta Sweet Dreams bed",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Upscale bathroom amenities",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Luxury bath linens",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "High-speed Wifi internet access",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "55-inch TV",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Air conditioning",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Balcony or patio",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Coffee/tea maker",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Daily housekeeping service",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Desk",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "In-room safe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Telephone",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Kitchen",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Microwave",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				}
 			]
 		},
@@ -1201,6 +1541,91 @@ let hotel = {
 					"name": "Hotel Shuttle",
 					"url": "https://botanikaresort.com/hotel/amenities/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg"
+				},
+				{
+					"name": "Check-in 3 PM to Check-out 11 AM",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Bathrobe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Shower",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Serta Sweet Dreams bed",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Upscale bathroom amenities",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Luxury bath linens",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "High-speed Wifi internet access",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "55-inch TV",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Air conditioning",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Balcony or patio",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Coffee/tea maker",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Daily housekeeping service",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Desk",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "In-room safe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Telephone",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Kitchen",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Microwave",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				}
 			]
 		},
@@ -1349,6 +1774,91 @@ let hotel = {
 					"name": "Hotel Shuttle",
 					"url": "https://botanikaresort.com/hotel/amenities/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg"
+				},
+				{
+					"name": "Check-in 3 PM to Check-out 11 AM",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Bathrobe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Shower",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Serta Sweet Dreams bed",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Upscale bathroom amenities",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Luxury bath linens",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "High-speed Wifi internet access",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "55-inch TV",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Air conditioning",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Balcony or patio",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Coffee/tea maker",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Daily housekeeping service",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Desk",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "In-room safe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Telephone",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Kitchen",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Microwave",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				}
 			]
 		},
@@ -1497,6 +2007,91 @@ let hotel = {
 					"name": "Hotel Shuttle",
 					"url": "https://botanikaresort.com/hotel/amenities/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg"
+				},
+				{
+					"name": "Check-in 3 PM to Check-out 11 AM",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Bathrobe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Shower",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Serta Sweet Dreams bed",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Upscale bathroom amenities",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Luxury bath linens",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "High-speed Wifi internet access",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "55-inch TV",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Air conditioning",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Balcony or patio",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Coffee/tea maker",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Daily housekeeping service",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Desk",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "In-room safe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Telephone",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Kitchen",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Microwave",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				}
 			]
 		},
@@ -1645,6 +2240,91 @@ let hotel = {
 					"name": "Hotel Shuttle",
 					"url": "https://botanikaresort.com/hotel/amenities/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-pool-lounge-1626x1054-1.jpg"
+				},
+				{
+					"name": "Check-in 3 PM to Check-out 11 AM",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Bathrobe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Shower",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Serta Sweet Dreams bed",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Upscale bathroom amenities",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Luxury bath linens",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "High-speed Wifi internet access",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "55-inch TV",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Air conditioning",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Balcony or patio",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Coffee/tea maker",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Daily housekeeping service",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Desk",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "In-room safe",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Telephone",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Kitchen",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Microwave",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				}
 			]
 		}
