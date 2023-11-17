@@ -35,8 +35,8 @@ let hotel = {
 	},
 
 	// links
-	"logoUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/Botanika-logo-sloth_tag_Hilton-white_rgb-e1639089287901.png", //**** is this ok? only works on a dark background
-	"copyrightUrl": "https://www.botanikaresort.com/about-us/terms-of-use", //**** page does not exist
+	"logoUrl": "https://botanikaresort.com/wp-content/uploads/2020/08/Botanika-logo-brown_tag_Hilton_rgb_LUXURY-in-green_400x213.jpg",
+	"copyrightUrl": "",
 	"facebookUrl": "https://www.facebook.com/Bot%C3%A1nika-Osa-Peninsula-103792942151312",
 	"twitterUrl": "https://twitter.com/BotanikaResort",
 	"instagramUrl": "https://www.instagram.com/botanika_resort",
@@ -62,7 +62,7 @@ let hotel = {
 		{
 			"name": "Canopy Zipline",
 			"url": "https://botanikaresort.com/experiences/eco-adventures/",
-			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/Grid3_Fishing.jpg" //****use images that match - check all of these as there are several that are incorrect or the name doesn't go with the URL/image
+			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-zipline-722x508-1.jpg"
 		},
 
 		{
@@ -73,12 +73,12 @@ let hotel = {
 		{
 			"name": "Monkey Tour",
 			"url": "https://botanikaresort.com/experiences/eco-adventures/",
-			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/Grid6_Whale.jpg"
+			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/Grid5_Monkey.jpg"
 		},
 		{
 			"name": "Golfo Dulce Excursion By Boat",
 			"url": "https://botanikaresort.com/experiences/eco-adventures/",
-			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/11/header_ecoadventures-1-scaled.jpg"
+			"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/Grid6_Whale.jpg"
 		},
 		{
 			"name": "Mountain Biking",
@@ -139,19 +139,19 @@ let hotel = {
 	"roomGroupsArr": [
 		{
 			"roomType": "Guest Room",
-			"numberOfRooms": null //****Should these be filled in?
+			"numberOfRooms": 39,
 		},
 		{
 			"roomType": "1 Bedroom",
-			"numberOfRooms": null
+			"numberOfRooms": 34,
 		},
 		{
 			"roomType": "2 Bedroom",
-			"numberOfRooms": null
+			"numberOfRooms": 49,
 		},
 		{
 			"roomType": "3 Bedroom",
-			"numberOfRooms": null
+			"numberOfRooms": 2,
 		}
 	],
 	"imageArr": [
@@ -178,7 +178,7 @@ let hotel = {
 	],
 	"roomsArr": [  //****CHECK ALL ROOM TYPES. Guest rooms should not be labeled as suites - they are hotel rooms. Check occupancy and bed types on all
 		{
-			"type": "Suite",
+			"type": "Rooms",
 			"name": "Guest Room 2 Queens",
 			"url": "https://botanikaresort.com/hotel/rooms/",
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/",
@@ -414,11 +414,6 @@ let hotel = {
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
 				{
-					"name": "Balcony or patio",
-					"url": "https://botanikaresort.com/hotel/rooms/",
-					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
-				},
-				{
 					"name": "Coffee/tea maker",
 					"url": "https://botanikaresort.com/hotel/rooms/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
@@ -444,7 +439,7 @@ let hotel = {
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
 				{
-					"name": "Kitchen",
+					"name": "Mini Refrigerator",
 					"url": "https://botanikaresort.com/hotel/rooms/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
@@ -456,14 +451,14 @@ let hotel = {
 			]
 		},
 		{
-			"type": "Suite",
+			"type": "Room",
 			"name": "Guest Room 1 King",
 			"url": "https://botanikaresort.com/hotel/rooms/",
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/",
 			"tourUrl": "",
 			"petsAllowedTrueOrFalse": "",
 			"description": "With 446 square-feet of interior space and unobstructed north facing views of beautifully landscaped gardens and the rainforest canopy, our king guest rooms offer a tranquil refuge with all the essentials.",
-			"defaultPrice": "214",
+			//"defaultPrice": "214",
 			"maxOccupancy": "2",
 			"checkInTime": "16:00",
 			"checkOutTime": "11:00",
@@ -677,7 +672,7 @@ let hotel = {
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
 				{
-					"name": "Kitchen",
+					"name": "Mini Refrigerator",
 					"url": "https://botanikaresort.com/hotel/rooms/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
@@ -689,14 +684,14 @@ let hotel = {
 			]
 		},
 		{
-			"type": "Suite",
+			"type": "Room",
 			"name": "Guest Room 1 King Accesible",
 			"url": "https://botanikaresort.com/hotel/rooms/",
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/",
 			"tourUrl": "",
 			"petsAllowedTrueOrFalse": "",
 			"description": "Carefully crafted accessible guest rooms are designed for maximum comfort with a Serta Sweet Dreams king bed and a roll-in shower.",
-			"defaultPrice": "214",
+			//"defaultPrice": "214",
 			"maxOccupancy": "2",
 			"checkInTime": "16:00",
 			"checkOutTime": "11:00",
@@ -910,7 +905,22 @@ let hotel = {
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
 				{
-					"name": "Kitchen",
+					"name": "Iron/ironing board",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Hairdryer",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Mini refrigerator",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Telephone - Voice Mail",
 					"url": "https://botanikaresort.com/hotel/rooms/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
@@ -929,11 +939,11 @@ let hotel = {
 			"tourUrl": "",
 			"petsAllowedTrueOrFalse": "",
 			"description": "Inspired space, Botanika's 1-bedroom suite offers extra room to breathe with separate bedroom and living areas. From your private terrace, the tropical landscape will beckon you to be adventurous with unobstructed panoramic views of the rainforest canopy or the lagoon shaped pool.",
-			"defaultPrice": "273",
+			// "defaultPrice": "273",
 			"maxOccupancy": "4",
 			"checkInTime": "16:00",
 			"checkOutTime": "11:00",
-			"bedCount": "2",
+			"bedCount": "1",
 			"bedType": "King, Sofabed",
 			"smokingBoolean": false,
 			"images": [
@@ -1079,6 +1089,26 @@ let hotel = {
 				},
 				{
 					"name": "Shower",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Iron/ironing board",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Hairdryer",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Mini refrigerator",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Telephone - Voice Mail",
 					"url": "https://botanikaresort.com/hotel/rooms/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
