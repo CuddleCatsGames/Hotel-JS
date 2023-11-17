@@ -1185,15 +1185,15 @@ let hotel = {
 			]
 		},
 		{
-			"type": "Suite",
+			"type": "Room",
 			"name": "2 Bedroom 1 King and 1 Queen",
 			"url": "https://botanikaresort.com/hotel/rooms/",
 			"bookUrl": "https://botanikaresort.com/hotel/rooms/",
 			"tourUrl": "",
 			"petsAllowedTrueOrFalse": "",
 			"description": "Traveling with friends or family? Stay comfortable in a spacious 2 bedroom suite. With 1,405-square-feet of interior space, you can spread out and truly unwind.",
-			"defaultPrice": "332",
-			"maxOccupancy": "4",
+			//"defaultPrice": "332",
+			"maxOccupancy": "6",
 			"checkInTime": "16:00",
 			"checkOutTime": "11:00",
 			"bedCount": "2",
@@ -1406,7 +1406,17 @@ let hotel = {
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
 				{
-					"name": "Kitchen",
+					"name": "Sofa Bed",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Spacious Two Room suite",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Iron/ironing board",
 					"url": "https://botanikaresort.com/hotel/rooms/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
@@ -1426,7 +1436,7 @@ let hotel = {
 			"petsAllowedTrueOrFalse": "",
 			"description": "Just breathe. After days of discovering the Osa Peninsula, return and feel at home in paradise. Perfect for families and small groups, every 1,439-square-foot 2 bedroom suite is a corner unit with plenty of space to unwind and reset.",
 			"defaultPrice": "332",
-			"maxOccupancy": "4",
+			"maxOccupancy": "6",
 			"checkInTime": "16:00",
 			"checkOutTime": "11:00",
 			"bedCount": "3",
@@ -1639,6 +1649,21 @@ let hotel = {
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
 				{
+					"name": "Spacious Two Room suite",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Iron/ironing board",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Mini Refrigerator",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
 					"name": "Kitchen",
 					"url": "https://botanikaresort.com/hotel/rooms/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
@@ -1658,8 +1683,8 @@ let hotel = {
 			"tourUrl": "",
 			"petsAllowedTrueOrFalse": "",
 			"description": "A modern nature retreat, unwind in a 2 bedroom garden villa suite with a private terrace that showcases unobstructed panoramic views of the tropical landscape and rainforest canopy.",
-			"defaultPrice": "332",
-			"maxOccupancy": "4",
+			//"defaultPrice": "332",
+			"maxOccupancy": "6",
 			"checkInTime": "16:00",
 			"checkOutTime": "11:00",
 			"bedCount": "2",
@@ -1872,6 +1897,21 @@ let hotel = {
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
 				{
+					"name": "2 Bathrooms",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Seating Area",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Balcony",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
 					"name": "Kitchen",
 					"url": "https://botanikaresort.com/hotel/rooms/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
@@ -1891,8 +1931,8 @@ let hotel = {
 			"tourUrl": "",
 			"petsAllowedTrueOrFalse": "",
 			"description": "Feel nature's embrace. Set like a dream within a tropical haven— Botanika’s 3 bedroom suites were designed to invite the outdoors in, showcasing refreshing views of the rainforest canopy and surrounding tropical gardens.",
-			"defaultPrice": "388",
-			"maxOccupancy": "6",
+			//"defaultPrice": "388",
+			"maxOccupancy": "10",
 			"checkInTime": "16:00",
 			"checkOutTime": "11:00",
 			"bedCount": "4",
@@ -2106,6 +2146,30 @@ let hotel = {
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
 				{
+					"name": "2 Bathrooms",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Seating Area",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Balcony",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Kitchen",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Microwave",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				{
 					"name": "Kitchen",
 					"url": "https://botanikaresort.com/hotel/rooms/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
@@ -2126,7 +2190,7 @@ let hotel = {
 			"petsAllowedTrueOrFalse": "",
 			"description": "Paradise is found. Ideal for families and groups traveling together, our spacious 3 bedroom garden villa suites offer 2,393-square-feet of interior space and an oversized private terrace to enjoy invigorating views of our tropical gardens and the rainforest canopy.",
 			"defaultPrice": "332",
-			"maxOccupancy": "4",
+			"maxOccupancy": "10",
 			"checkInTime": "16:00",
 			"checkOutTime": "11:00",
 			"bedCount": "2",
@@ -2334,10 +2398,29 @@ let hotel = {
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
 				{
-					"name": "Telephone",
+					"name": "2 Bathrooms",
 					"url": "https://botanikaresort.com/hotel/rooms/",
 					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				},
+				{
+					"name": "Seating Area",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Balcony",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Kitchen",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
+				},
+				{
+					"name": "Microwave",
+					"url": "https://botanikaresort.com/hotel/rooms/",
+					"imageUrl": "https://botanikaresort.com/wp-content/uploads/2021/12/botanika-rooms-2560x1440-1.jpg"
 				{
 					"name": "Kitchen",
 					"url": "https://botanikaresort.com/hotel/rooms/",
