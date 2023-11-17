@@ -185,7 +185,7 @@ let hotel = {
 			"tourUrl": "",
 			"petsAllowedTrueOrFalse": "",
 			"description": "Modern and sophisticated, our guest rooms with queen beds were designed with the discerning traveler in mind. Each 446 square-foot room features 2 Serta Sweet Dreams queen beds and provides unobstructed north facing views of beautifully landscaped gardens and the rainforest canopy.",
-			"defaultPrice": "233", //****Where do the prices come from and will they need to be updated regularly?
+			//"defaultPrice": "233", //****Where do the prices come from and will they need to be updated regularly?
 			"maxOccupancy": "4",
 			"checkInTime": "16:00",
 			"checkOutTime": "11:00",
@@ -1435,7 +1435,7 @@ let hotel = {
 			"tourUrl": "",
 			"petsAllowedTrueOrFalse": "",
 			"description": "Just breathe. After days of discovering the Osa Peninsula, return and feel at home in paradise. Perfect for families and small groups, every 1,439-square-foot 2 bedroom suite is a corner unit with plenty of space to unwind and reset.",
-			"defaultPrice": "332",
+			//"defaultPrice": "332",
 			"maxOccupancy": "6",
 			"checkInTime": "16:00",
 			"checkOutTime": "11:00",
@@ -2189,7 +2189,7 @@ let hotel = {
 			"tourUrl": "",
 			"petsAllowedTrueOrFalse": "",
 			"description": "Paradise is found. Ideal for families and groups traveling together, our spacious 3 bedroom garden villa suites offer 2,393-square-feet of interior space and an oversized private terrace to enjoy invigorating views of our tropical gardens and the rainforest canopy.",
-			"defaultPrice": "332",
+			//"defaultPrice": "332",
 			"maxOccupancy": "10",
 			"checkInTime": "16:00",
 			"checkOutTime": "11:00",
